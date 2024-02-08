@@ -1,32 +1,308 @@
 {
     "week": [
-        [],
-        [],
-        [],
-        [],
         [
             {
-                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_name": null,
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Програмування на базі технології dot net доц. Крайчук С.О.",
+                "lesson_name": null,
                 "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Програмування на базі технології dot net доц. Крайчук С.О.",
+                "lesson_name": null,
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
                 "link": null
             }
         ],
-        [],
-        []
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування на базі технології dot net доц. Крайчук С.О.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування на базі технології dot net доц. Крайчук С.О.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
     ]
 }

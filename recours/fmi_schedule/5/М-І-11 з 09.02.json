@@ -30,6 +30,16 @@
                 "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
                 "lesson_number": 3,
                 "link": "http://meet.google.com/sbk-eadi-hnj"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
             }
         ],
         [
@@ -62,6 +72,26 @@
                 "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
                 "lesson_number": 3,
                 "link": "http://meet.google.com/sbk-eadi-hnj"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
             }
         ],
         [
@@ -74,9 +104,80 @@
                 "lesson_name": "Технології змішаної та неформальної освіти проф. Войтович І.С.",
                 "lesson_number": 1,
                 "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
             }
         ],
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
         [
             {
                 "lesson_name": "Теорія і методика навчання інформатики в старшій школі ст.в. Романюк А.А.",
@@ -107,9 +208,29 @@
                 "lesson_name": "Теорія і методика навчання інформатики в старшій школі ст.в. Романюк А.А.",
                 "lesson_number": 3,
                 "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
             }
         ],
         [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
             {
                 "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
                 "lesson_number": 2,
@@ -119,8 +240,69 @@
                 "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
                 "lesson_number": 2,
                 "link": "http://meet.google.com/sbk-eadi-hnj"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
             }
         ],
-        []
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
     ]
 }
