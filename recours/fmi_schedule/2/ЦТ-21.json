@@ -1,0 +1,91 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 1,
+                "link": "аудиторія 103"
+            },
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 1,
+                "link": "аудиторія 103"
+            },
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 2,
+                "link": "аудиторія 103"
+            },
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 2,
+                "link": "аудиторія 103"
+            },
+            {
+                "lesson_name": "Вікова і педагогічна психологія проф. Немеш О.М.",
+                "lesson_number": 3,
+                "link": "аудиторія 406"
+            },
+            {
+                "lesson_name": "Вікова і педагогічна психологія проф. Немеш О.М.",
+                "lesson_number": 3,
+                "link": "аудиторія 406"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
