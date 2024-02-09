@@ -2,34 +2,34 @@
     "week": [
         [
             {
-                "lesson_name": "Історія Української культури доц. Матвєєва В.С.",
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
                 "lesson_number": 1,
-                "link": "аудиторія 309"
-            },
-            {
-                "lesson_name": "Історія Української культури доц. Матвєєва В.С.",
-                "lesson_number": 1,
-                "link": "аудиторія 309"
-            },
-            {
-                "lesson_name": "Історія Української культури доц. Матвєєва В.С.",
-                "lesson_number": 2,
-                "link": "аудиторія 309"
-            },
-            {
-                "lesson_name": "Історія Української культури доц. Матвєєва В.С.",
-                "lesson_number": 2,
-                "link": "аудиторія 309"
-            },
-            {
-                "lesson_name": "Веб-програмування доц. Батишкіна Ю.В. дистанційно",
-                "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Веб-програмування доц. Батишкіна Ю.В. дистанційно",
-                "lesson_number": 3,
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
+                "lesson_number": 1,
                 "link": null
+            },
+            {
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Веб-програмування доц. Батишкіна Ю.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/jic-ucwf-hzq"
+            },
+            {
+                "lesson_name": "Веб-програмування доц. Батишкіна Ю.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/jic-ucwf-hzq"
             },
             {
                 "lesson_name": null,
