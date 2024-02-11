@@ -1,0 +1,36 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [],
+        [],
+        [],
+        [
+            {
+                "lesson_name": "Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ]
+    ]
+}
