@@ -1,10 +1,12 @@
 {
     "all_faculties": [
         {
-          "fmi_schedule": "ФМІ"
+          "faculty_name": "ФМІ"
+          "faculty_name": "fmi_schedule"
         },
-        {
-          "ppf_schedule": "ППФ"
+        {    
+          "faculty_name": "ППФ"
+          "faculty_name": "ppf_schedule"
         }
     ]
   }
