@@ -1,0 +1,171 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/sbk-eadi-hnj"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Педагогічний менеджмент в професійній освіті доц. Синіцька Н.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/zrz-qhbt-bmv"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Моніторинг та оцінювання якості освітнього процесу проф. Войтович І.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/sbk-eadi-hnj"
+            },
+            {
+                "lesson_name": "Методика навчання комп'ютерних дисциплін у закладах фахової передвищої та професійнотехнічної освіти доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інформаційна безпека доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "Якість і тестування програмного забезпечення проф. Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqs-rdeu-ogn"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Інформаційні технології проектування та управління ОС проф. Шліхта Г.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/kqs-rdeu-ogn"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": "16:00 Сучасні технології веб-розробки Семенюк О.М. zoom Ідентифікатор конференції: 409 859 9929",
+                "lesson_number": 5,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методологія Data Science Cавченко В.Р.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/uub-jqwi-izj"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи Big Data Савченко В.Р.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/uub-jqwi-izj"
+            },
+            {
+                "lesson_name": "Гнучкі методології розробки обчислювальних систем проф. Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqs-rdeu-ogn"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Гнучкі методології розробки обчислювальних систем проф. Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kqs-rdeu-ogn"
+            },
+            {
+                "lesson_name": "Дизайн мислення проф. Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqs-rdeu-ogn"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання комп'ютерних дисциплін у закладах фахової передвищої та професійнотехнічної освіти доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54",
+                "lesson_number": 2,
+                "link": "http://meet.google.com/sbk-eadi-hnj"
+            },
+            {
+                "lesson_name": "Педагогічний менеджмент в професійній освіті доц. Синіцька Н.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/zrz-qhbt-bmv"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}

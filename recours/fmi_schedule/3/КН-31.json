@@ -1,0 +1,84 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи наукових досліджень проф. Сяський А.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтерфейси користувача та СІ доц. Петренко С.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Крос-платформне програмування ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія систем та системний аналіз доц. Мороз І.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтерфейси користувача та СІ доц. Петренко С.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Класифікація та розпізнавання образів доц. Мороз І.П.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Класифікація та розпізнавання образів доц. Мороз І.П.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Крос-платформне програмування ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія систем та системний аналіз доц. Мороз І.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія доц. Ворон О.П.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ]
+    ]
+}
