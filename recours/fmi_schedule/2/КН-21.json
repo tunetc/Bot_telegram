@@ -1,0 +1,119 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Історія української культури доц. Матвєєва В.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Веб-програмування доц. Батишкіна Ю.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/jic-ucwf-hzq"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Числові методи проф. Сяський А.О.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні інформаційні технології Литвак А.М. (проф. Сяський А.О.)",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Бази даних та інформаційні системи доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування на базі технології .net доц. Крайчук С.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Числові методи проф. Сяський А.О.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Тривимірна графіка і анімація Бойчура М.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія програмування доц. Сяський В.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія програмування доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Веб-програмування доц. Батишкіна Ю.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/jic-ucwf-hzq"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування на базі технології .net доц. Крайчук С.О.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
