@@ -1,0 +1,89 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Аналітична геометрія доц. Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Лінійна алгебра доц. Присяжнюк І.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Лінійна алгебра доц. Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Елементарна матетамика доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Елементарна матетамика доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Алгоритмізація і програмування Войтович В.І.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритмізація і програмування Войтович В.І.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "нб Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Математичний аналіз доц. Сапіліді Т.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
