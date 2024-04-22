@@ -1,0 +1,99 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "нб Комплексний аналіз доц. Демчик С.П.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб ССП ст.в. Гульчук В.А.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "нб ССП ст.в. Гульчук В.А.",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "нб ССП ст.в. Гульчук В.А.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "нб Комплексний аналіз доц. Демчик С.П.",
+                "lesson_number": 1,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Філософія доц. Ворон О.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Комплексний аналіз доц. Демчик С.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
