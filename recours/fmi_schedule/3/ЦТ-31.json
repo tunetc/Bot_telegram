@@ -1,0 +1,79 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і методика виховання доц. Стельмашук Ж.Г.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Соціальна психологія Широких А.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "3D- графіка доц. Дубич К.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "МПН проф. Войтович І.С.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Формальні мови, граматика й автомати Соломко М.Т.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Системи комп'ютерних публікацій доц. Гнедко Н.М.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Системи комп'ютерних публікацій доц. Гнедко Н.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Системи комп'ютерних публікацій доц. Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
