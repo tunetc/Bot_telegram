@@ -1,0 +1,57 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівнянння проф. Петрівський Б.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівнянння проф. Петрівський Б.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівнянння проф. Петрівський Б.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівнянння проф. Петрівський Б.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівнянння проф. Петрівський Б.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        []
+    ]
+}
