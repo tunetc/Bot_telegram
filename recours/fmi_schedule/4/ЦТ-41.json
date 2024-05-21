@@ -1,0 +1,120 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": "Технології захисту інформації ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Медіаосвіта ст.в. Шидловський А.І.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи програмної інженерії доц. Шроль Т.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Методика застосування комп'ютерної техніки та цифрових технологій Соломко М.Т.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/soj-qufi-mzq"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Технології захисту інформації ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Медіаосвіта ст.в. Шидловський А.І.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Правознавство Кузьма Т.М./ Політологія Лесняк В.Ю.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Правознавство Кузьма Т.М./ Політологія Лесняк В.Ю.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Основи робототехніки Гойда Д.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Основи програмної інженерії доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Основи програмної інженерії доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика застосування комп'ютерної техніки та цифрових технологій доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Сучасні технології програмування Рожко В.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/akv-eyco-pfd"
+            },
+            {
+                "lesson_name": "дистанційно Сучасні технології програмування Рожко В.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/akv-eyco-pfd"
+            },
+            {
+                "lesson_name": "дистанційно Сучасні технології програмування Рожко В.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/akv-eyco-pfd"
+            }
+        ]
+    ]
+}
