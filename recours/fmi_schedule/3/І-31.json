@@ -1,0 +1,99 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Методика навчання інформатики ст.в. Гульчук В.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Екологія Герман Н.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання інформатики ст.в. Гульчук В.А.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Методика застосування комп'ютерної техніки та цифрових технологій Соломко М.Т.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/soj-qufi-mzq"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Проектна діяльність у ШКІ проф. Юзик О.П.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Екологія Герман Н.В.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика застосування комп'ютерної техніки та цифрових технологій доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
+    ]
+}
