@@ -1,0 +1,211 @@
+{
+  "all_years": [
+    [
+      {
+        "specialty_name": "Е-11"
+      },
+      {
+        "specialty_name": "Г-11"
+      },
+      {
+        "specialty_name": "Г-12 (ск.т.)"
+      },
+      {
+        "specialty_name": "СХ-11"
+      },
+      {
+        "specialty_name": "Б-11"
+      },
+      {
+        "specialty_name": "Б-12 (ск.т.)"
+      },
+      {
+        "specialty_name": "СБЗ-11"
+      },
+      {
+        "specialty_name": "СБЗ-12 (ск.т.)"
+      },
+      {
+        "specialty_name": "СПН-11"
+      },
+      {
+        "specialty_name": "СР-11"
+      },
+      {
+        "specialty_name": "СР-12(ск.т.)"
+      },
+      {
+        "specialty_name": "СЗ-11"
+      },
+      {
+        "specialty_name": "П-11"
+      },
+      {
+        "specialty_name": "П-12 (ск.т.)"
+      },
+      {
+        "specialty_name": "ПП-11"
+      },
+      {
+        "specialty_name": "ПП-12"
+      },
+      {
+        "specialty_name": "ППСКТ-12"
+      },
+      {
+        "specialty_name": "ФТ-11"
+      },
+      {
+        "specialty_name": "ФТ-12(ск.т.)"
+      }
+    ],
+    [
+      {
+        "specialty_name": "Е-21"
+      },
+      {
+        "specialty_name": "Г-21"
+      },
+      {
+        "specialty_name": "Б-21"
+      },
+      {
+        "specialty_name": "СБЗ-21"
+      },
+      {
+        "specialty_name": "ФТ-21"
+      },
+      {
+        "specialty_name": "ФТ-22 (ск.т.)"
+      },
+      {
+        "specialty_name": "СПН-21"
+      },
+      {
+        "specialty_name": "СПН-22(ск.т.)"
+      },
+      {
+        "specialty_name": "СР-21"
+      },
+      {
+        "specialty_name": "П-21"
+      },
+      {
+        "specialty_name": "ПП-21"
+      }
+    ],
+    [
+      {
+        "specialty_name": "Е-31"
+      },
+      {
+        "specialty_name": "Г-31"
+      },
+      {
+        "specialty_name": "Б-31"
+      },
+      {
+        "specialty_name": "СБЗ-31"
+      },
+      {
+        "specialty_name": "ФТ-31"
+      },
+      {
+        "specialty_name": "ФТ-32 (ск.т.)"
+      },
+      {
+        "specialty_name": "СПН-31"
+      },
+      {
+        "specialty_name": "СР-31"
+      },
+      {
+        "specialty_name": "СР-32 (ск.т.) "
+      },
+      {
+        "specialty_name": "П-31"
+      },
+      {
+        "specialty_name": "ПП-31"
+      }
+    ],
+    [
+      {
+        "specialty_name": "Е-41"
+      },
+      {
+        "specialty_name": "Г-41"
+      },
+      {
+        "specialty_name": "Б-41"
+      },
+      {
+        "specialty_name": "СБЗ-41"
+      },
+      {
+        "specialty_name": "ФТ-41"
+      },
+      {
+        "specialty_name": "СПН-41"
+      },
+      {
+        "specialty_name": "П-41"
+      },
+      {
+        "specialty_name": "ПП-41"
+      },
+      {
+        "specialty_name": "СР-41"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МЕ-51"
+      },
+      {
+        "specialty_name": "МГ-51"
+      },
+      {
+        "specialty_name": "МБ-51"
+      },
+      {
+        "specialty_name": "МСБЗ-51"
+      },
+      {
+        "specialty_name": "МСПН-51"
+      },
+      {
+        "specialty_name": "МП-51"
+      },
+      {
+        "specialty_name": "МУ-51"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МЕ-61"
+      },
+      {
+        "specialty_name": "МР-61"
+      },
+      {
+        "specialty_name": "МГ-61"
+      },
+      {
+        "specialty_name": "МБ-61"
+      },
+      {
+        "specialty_name": "МСБЗ-61"
+      },
+      {
+        "specialty_name": "МСПН-61"
+      },
+      {
+        "specialty_name": "МП-61"
+      },
+      {
+        "specialty_name": "МУ-61"
+      }
+    ]
+  ]
+}
