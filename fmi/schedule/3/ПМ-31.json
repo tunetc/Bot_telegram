@@ -1,0 +1,41 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Математичні методи дослідження операцій Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математичні методи дослідження операцій Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Математичні методи дослідження операцій Сінчук А.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}

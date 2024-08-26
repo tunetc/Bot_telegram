@@ -1,0 +1,41 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів Шроль Т.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/dpf-ekbn-rdd"
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів Шроль Т.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/dpf-ekbn-rdd"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "Основи моделювання мовою UML Руденко В.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи моделювання мовою UML Руденко В.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}
