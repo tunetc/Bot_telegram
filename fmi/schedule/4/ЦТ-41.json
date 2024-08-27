@@ -1,0 +1,72 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Основи штучного інтелекту Юзик О.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Аудіо та відеомонтаж Шидловський А.І.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/tmd-napd-qji"
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи штучного інтелекту Юзик О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Аудіо та відеомонтаж Шидловський А.І.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/tmd-napd-qji"
+            },
+            {
+                "lesson_name": "Основи штучного інтелекту Юзик О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ],
+        [],
+        []
+    ]
+}
