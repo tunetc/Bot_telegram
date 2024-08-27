@@ -1,0 +1,36 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "Інтелектуальна власність Юзик О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Інтелектуальна власність Юзик О.П.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "МНІ Павлова Н.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ssg-jvpz-xzk"
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Дизайн інтерфейсів інтерактивних обчислювальних систем Шліхта Г.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Командоутворення та лідерство в управлінні проектами Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Інноваційні технології в професійній освіті Войтович І.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": "Інноваційні технології в професійній освіті Войтович І.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Дизайн інтерфейсів інтерактивних обчислювальних систем Шліхта Г.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Командоутворення та лідерство в управлінні проектами Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Командоутворення та лідерство в управлінні проектами Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}
