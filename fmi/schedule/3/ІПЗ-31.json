@@ -1,0 +1,84 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Адміністрування UNIX систем Шинкарчук Н.В.",
+                "lesson_number": 1,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Адміністрування UNIX систем Шинкарчук Н.В.",
+                "lesson_number": 1,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "Системний аналіз і теорія прийняття рішень Мороз І.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/qsb-wmpr-pbx"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Кросплатформне програмування Петренко С.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "Системний аналіз і теорія прийняття рішень Мороз І.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/qsb-wmpr-pbx"
+            },
+            {
+                "lesson_name": "Системний аналіз і теорія прийняття рішень Мороз І.П.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/qsb-wmpr-pbx"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Кросплатформне програмування Петренко С.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            }
+        ]
+    ]
+}
