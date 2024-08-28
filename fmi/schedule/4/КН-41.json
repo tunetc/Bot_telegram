@@ -1,0 +1,88 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Адміністрування UNIX систем Шинкарчук Н.В.",
+                "lesson_number": 1,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "Моделювання систем Сінчук А.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Технології хмарних обчислень Шевцова Н.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Адміністрування UNIX систем Шинкарчук Н.В.",
+                "lesson_number": 1,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "Машинне навчання Сяський В.А.",
+                "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Машинне навчання Сяський В.А.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Машинне навчання Сяський В.А.",
+                "lesson_number": 4,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Моделювання систем Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Моделювання систем Сінчук А.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Технології хмарних обчислень Шевцова Н.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            },
+            {
+                "lesson_name": "Технології хмарних обчислень Шевцова Н.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Машинне навчання Сяський В.А.",
+                "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Машинне навчання Сяський В.А.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Машинне навчання Сяський В.А.",
+                "lesson_number": 4,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            }
+        ],
+        []
+    ]
+}
