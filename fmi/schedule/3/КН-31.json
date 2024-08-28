@@ -1,0 +1,89 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Математичні методи дослідження операцій Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математичні методи дослідження операцій Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Математичні методи дослідження операцій Сінчук А.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Операційні системи Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Кросплатформне програмування Петренко С.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "Логічне програмування Сяський В.А.",
+                "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Логічне програмування Сяський В.А.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Логічне програмування Сяський В.А.",
+                "lesson_number": 4,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Кросплатформне програмування Петренко С.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Соціально-політичні студії Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            }
+        ]
+    ]
+}
