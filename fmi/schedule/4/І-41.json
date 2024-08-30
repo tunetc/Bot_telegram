@@ -1,0 +1,63 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Вибрані питання STEM-освіти Шидловський А.І.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/rht-bigu-zok"
+            },
+            {
+                "lesson_name": "Програмні засоби шкільного курсу інформатики Остапчук Н.О.",
+                "lesson_number": 2,
+                "link": "https://us05web.zoom.us/j/81206420016?pwd=KBglO2Wo7jwQqbZp6aVqbiICsbL3jM.1"
+            },
+            {
+                "lesson_name": "Програмні засоби шкільного курсу інформатики Остапчук Н.О.",
+                "lesson_number": 3,
+                "link": "https://us05web.zoom.us/j/81206420016?pwd=KBglO2Wo7jwQqbZp6aVqbiICsbL3jM.1"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Іноземна мова Денисюк Л.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Вибрані питання STEM-освіти Шидловський А.І.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/rht-bigu-zok"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Вибрані питання STEM-освіти Шидловський А.І.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/rht-bigu-zok"
+            },
+            {
+                "lesson_name": "Вибрані питання STEM-освіти Шидловський А.І.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/rht-bigu-zok"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмні засоби шкільного курсу інформатики Остапчук Н.О.",
+                "lesson_number": 2,
+                "link": "https://us05web.zoom.us/j/81206420016?pwd=KBglO2Wo7jwQqbZp6aVqbiICsbL3jM.1"
+            }
+        ],
+        []
+    ]
+}
