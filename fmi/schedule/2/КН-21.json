@@ -1,0 +1,57 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення Петренко С.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення Петренко С.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення Петренко С.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення Петренко С.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "Теорія ймовірності, ймовірнісні процеси, математична статистика Сінчук А.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теорія ймовірності, ймовірнісні процеси, математична статистика Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            },
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення Петренко С.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення Петренко С.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [],
+        []
+    ]
+}
