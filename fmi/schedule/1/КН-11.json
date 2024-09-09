@@ -1,0 +1,99 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Дискретна математика Шевцова Н.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Комп'ютерна математика Бабич С.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Інформаційна культура читальний зал №1",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія України Шеретюк В.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 226"
+            },
+            {
+                "lesson_name": "Комп'ютерна фізика Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "аудиторія 104"
+            },
+            {
+                "lesson_name": "Комп'ютерна фізика Ляшук Т.Г.",
+                "lesson_number": 4,
+                "link": "аудиторія 104"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Програмування Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": "аудиторія 319"
+            },
+            {
+                "lesson_name": "Математичний аналіз Присяжнюк І.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 319"
+            },
+            {
+                "lesson_name": "Математичний аналіз Присяжнюк І.М.",
+                "lesson_number": 3,
+                "link": "аудиторія 319"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Комп'ютерна математика Бабич С.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерна математика Бабич С.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз Присяжнюк І.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
