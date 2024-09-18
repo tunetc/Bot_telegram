@@ -1,0 +1,94 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Вступ до вищої математики Білецький В.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Вступ до вищої математики Білецький В.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інформаційно-комунікаційні технології Полюхович Н.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Українська мова Шульжук Н.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Меатематичний аналіз Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Лінійна алгебра Петрівський Б.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія України Шеретюк В.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 319"
+            },
+            {
+                "lesson_name": "Лінійна алгебра Петрівський Б.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математичний аналіз Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Елементарна математика Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Елементарна математика Генсіцька-Антонюк Н.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Елементарна математика Генсіцька-Антонюк Н.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Елементарна математика Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз Присяжнюк І.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
