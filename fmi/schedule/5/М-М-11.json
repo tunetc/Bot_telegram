@@ -1,0 +1,84 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Комп'ютерно-інформаційні технології (в галузі) проф. Войтович І.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            },
+            {
+                "lesson_name": "Педагогіка новітньої школи доц. Остапчук М.В. https://meet.google.com/qzb-anjn-qmu код: qzb-anjn-qmu",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Технології наукових досліджень (в галузі) доц. Галатюк М.Ю.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/nnr-mjbi-pit"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Педагогіка новітньої школи доц. Остапчук М.В. https://meet.google.com/qzb-anjn-qmu код: qzb-anjn-qmu",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Педагогіка новітньої школи доц. Остапчук М.В. https://meet.google.com/qzb-anjn-qmu код: qzb-anjn-qmu",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Технології наукових досліджень (в галузі) доц. Галатюк М.Ю.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/nnr-mjbi-pit"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теоретико-методичні основи викладання математики у закладах загальної середньої та вищої освіти Генсіцька-Антонюк Н.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/twj-gkse-nmq"
+            },
+            {
+                "lesson_name": "Загальна алгебра Тимчук М.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
+            },
+            {
+                "lesson_name": "Загальна алгебра Тимчук М.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теоретико-методичні основи викладання математики у закладах загальної середньої та вищої освіти Генсіцька-Антонюк Н.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/twj-gkse-nmq"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Іноземна мова Ясногурська Л.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/qrh-eoqy-ogt"
+            },
+            {
+                "lesson_name": "Іноземна мова Ясногурська Л.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/qrh-eoqy-ogt"
+            },
+            {
+                "lesson_name": "Концепція сталого розвитку Сяська І.О.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+            },
+            {
+                "lesson_name": "Концепція сталого розвитку Сяська І.О.",
+                "lesson_number": 4,
+                "link": "https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+            }
+        ]
+    ]
+}
