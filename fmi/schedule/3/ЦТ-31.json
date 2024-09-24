@@ -1,0 +1,136 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Іноземна мова Романюк С.К.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і медотика вихованння Стельмашук Ж.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і медотика вихованння Стельмашук Ж.Г.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Тестування програмного забехзпечення Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи програмування мовою Java Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи програмування мовою Java Шроль Т.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Романюк С.К.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Векторна та растрова графіка Гнедко Н.М",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Системи управління базами даних Крайчук С.О.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Векторна та растрова графіка Гнедко Н.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Романюк С.К.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/jjd-znjt-rjz"
+            },
+            {
+                "lesson_name": "Основи програмування мовою Java Шроль Т.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/dpf-ekbn-rdd"
+            },
+            {
+                "lesson_name": "Векторна та растрова графіка Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "Системи управління базами даних Крайчук С.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/snw-tnmc-ppm"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Тестування програмного забехзпечення Шліхта Г.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "3D-графіка Дубич К.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/cas-rixi-kju"
+            },
+            {
+                "lesson_name": "Основи моделювання мовою UML Руденко В.М.",
+                "lesson_number": 2,
+                "link": "https://teams.microsoft.com/l/meetup-join/19:D0d7tqDoah3IxD0MmMHqZ56CDFV-lf2VRfAq0DXTvwg1@thread.tacv2/1693476462823?context=%7B%22Tid%22:%2251c857e6-1af0-4e29-9cc5-d1ce22a6c40a%22,%22Oid%22:%223a66ba42-3da2-48df-9868-5d3083df6912%22%7D"
+            },
+            {
+                "lesson_name": "Основи моделювання мовою UML Руденко В.М.",
+                "lesson_number": 3,
+                "link": "https://teams.microsoft.com/l/meetup-join/19:D0d7tqDoah3IxD0MmMHqZ56CDFV-lf2VRfAq0DXTvwg1@thread.tacv2/1693476462823?context=%7B%22Tid%22:%2251c857e6-1af0-4e29-9cc5-d1ce22a6c40a%22,%22Oid%22:%223a66ba42-3da2-48df-9868-5d3083df6912%22%7D"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/nnr-mjbi-pit"
+            },
+            {
+                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/nnr-mjbi-pit"
+            }
+        ]
+    ]
+}
