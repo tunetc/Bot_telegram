@@ -1,0 +1,121 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Алгоритмізація та програмуванння в Python Шроль Т.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Економіка Лукомська О.І.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритмізація та програмуванння в Python Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи наукових досліджень Руденко В.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Економіка Лукомська О.І.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Економіка Лукомська О.І.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Алгоритмізація та програмуванння в Python Шроль Т.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Web-технології в освіті Дубич К.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Web-технології в освіті Дубич К.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Основи здоров'язбереження та БЖД Глінчук Ю.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Педагогіка Галатюк М.Ю.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Психологія Ногачевська І.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Педагогіка Галатюк М.Ю.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Професійні та наукові соціальні мережі Остапчук Н.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Рисунок Локшук І.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Професійні та наукові соціальні мережі Остапчук Н.О.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Рисунок Локшук І.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Основи здоров'язбереження та БЖД Глінчук Ю.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            },
+            {
+                "lesson_name": "Основи здоров'язбереження та БЖД Глінчук Ю.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            },
+            {
+                "lesson_name": "Основи здоров'язбереження та БЖД Глінчук Ю.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            }
+        ]
+    ]
+}
