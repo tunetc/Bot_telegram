@@ -1,0 +1,126 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Іноземна мова Трофімчук В.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і медотика вихованння Стельмашук Ж.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і медотика вихованння Стельмашук Ж.Г.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Комп'ютерна анімація Дубич К.П.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "МНІ Павлова Н.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "МНІ Павлова Н.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Трофімчук В.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "МНІ Павлова Н.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтелектуальна власність Юзик О.П.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Філософія освіти Сорочинська Т.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія освіти Сорочинська Т.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтелектуальна власність Юзик О.П.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/nnr-mjbi-pit"
+            },
+            {
+                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/nnr-mjbi-pit"
+            },
+            {
+                "lesson_name": "Операційні системи Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            }
+        ]
+    ]
+}
