@@ -1,0 +1,72 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Технології дистанційного навчання в системі професійної освіти Дубич К.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/cas-rixi-kju"
+            },
+            {
+                "lesson_name": "Технології дистанційного навчання в системі професійної освіти Дубич К.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/cas-rixi-kju"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Дизайн інтерфейсів інтерактивних обчислювальних систем Шліхта Г.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "15.45 Командоутворення та лідерство в управлінні проектами Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "14.15 Командоутворення та лідерство в управлінні проектами Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Технології дистанційного навчання в системі професійної освіти Дубич К.П.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/cas-rixi-kju"
+            }
+        ],
+        [
+            {
+                "lesson_name": "нб Цивільна безпека Глінчук Ю.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            },
+            {
+                "lesson_name": "ОП в Г Глінчук Ю.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            },
+            {
+                "lesson_name": "нб Цивільна безпека Глінчук Ю.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            },
+            {
+                "lesson_name": "ОП в Г Глінчук Ю.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ggy-xnft-cuz"
+            },
+            {
+                "lesson_name": "Дизайн інтерфейсів інтерактивних обчислювальних систем Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Дизайн інтерфейсів інтерактивних обчислювальних систем Шліхта Г.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            }
+        ],
+        [],
+        []
+    ]
+}
