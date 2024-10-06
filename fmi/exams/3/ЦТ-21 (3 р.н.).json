@@ -1,151 +1,47 @@
 {
-    "week": [
-        [
-            {
-                "lesson_name": "Іноземна мова Данілова Н.Р.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Теорія і медотика вихованння Стельмашук Ж.Г.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Теорія і медотика вихованння Стельмашук Ж.Г.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": "Операційні системи Кіндрат П.В.",
-                "lesson_number": 5,
-                "link": "https://meet.google.com/peb-swwm-ony"
-            }
-        ],
-        [
-            {
-                "lesson_name": "Операційні системи Кіндрат П.В.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "3D-графіка Дубич К.П.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи програмування мовою Java Шроль Т.С.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи програмування мовою Java Шроль Т.С.",
-                "lesson_number": 4,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Іноземна мова Данілова Н.Р.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Розробка UI/UX дизайну та web-сервісів Шроль Т.С.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Векторна та растрова графіка Гнедко Н.М.",
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": "Системи управління базами даних Крайчук С.О.",
-                "lesson_number": 4,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": "Векторна та растрова графіка Гнедко Н.М.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Іноземна мова Данілова Н.Р.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи програмування мовою Java Шроль Т.С.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": "Системи управління базами даних Крайчук С.О.",
-                "lesson_number": 4,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": "Тестування програмного забехзпечення Шліхта Г.О.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "3D-графіка Дубич К.П.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи моделювання мовою UML Руденко В.М.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи моделювання мовою UML Руденко В.М.",
-                "lesson_number": 3,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
-                "lesson_number": 1,
-                "link": "https://meet.google.com/nnr-mjbi-pit"
-            },
-            {
-                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/nnr-mjbi-pit"
-            },
-            {
-                "lesson_name": "Операційні системи Кіндрат П.В.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/peb-swwm-ony"
-            }
-        ]
+    "exams": [
+      {
+        "teacher": "доц. Шроль Т.С.",
+        "lesson": "Розробка UI/UX дизайну та web-сервісів",
+        "date": "19.11"
+      },
+      {
+        "teacher": "доц. Кіндрат П.В.",
+        "lesson": "Операційні системи",
+        "date": "25.11"
+      },
+      {
+        "teacher": "доц.Гаврилюк В.І.",
+        "lesson": "Основи програмування мовою Java",
+        "date": "29.11"
+      }
+    ],
+    "zalik": [
+      {
+        "teacher": null,
+        "lesson": "Історія педагогіки",
+        "date": null
+      },
+      {
+          "teacher": null,
+          "lesson": "Теорія і методика виховання",
+          "date": null
+      },
+      {
+          "teacher": null,
+          "lesson": "Системи управління базами даних/Векторна та растрова графіка",
+          "date": null
+      },
+      {
+          "teacher": null,
+          "lesson": "Основи моделювання мовою UML",
+          "date": null
+      },
+      {
+          "teacher": null,
+          "lesson": "Тестування програмного забезпечення/3D-графіка",
+          "date": null
+      }
     ]
-}
+  }
+  
