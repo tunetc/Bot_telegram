@@ -7,6 +7,10 @@
       {    
         "faculty_name": "ППФ",
         "folder_name": "ppf"
+      },
+      {    
+        "faculty_name": "ФІПМВ",
+        "folder_name": "fipmv"
       }
   ]
 }
