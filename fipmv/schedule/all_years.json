@@ -1,0 +1,49 @@
+{
+    "all_years": [
+        [
+            {
+                "specialty_name": "МВ-11"
+            },
+            {
+                "specialty_name": "ПЛ-11"
+            }
+        ],
+        [
+            {
+                "specialty_name": "МВ-21"
+            },
+            {
+                "specialty_name": "ПВ-21"
+            }
+        ],
+        [
+            {
+                "specialty_name": "МВ-31"
+            },
+            {
+                "specialty_name": "ПЛ-31"
+            }
+        ],
+        [
+            {
+                "specialty_name": "МВ-41"
+            },
+            {
+                "specialty_name": "ПЛ-41"
+            }
+        ],
+        [
+            {
+                "specialty_name": "МВ-11 (М)"
+            },
+            {
+                "specialty_name": "ПЛ-11 (М)"
+            }
+        ],
+        [
+            {
+                "specialty_name": "ПЛ-21 (М)"
+            }
+        ]
+    ]
+}
