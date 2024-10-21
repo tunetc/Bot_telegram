@@ -25,16 +25,6 @@
                 "lesson_name": "Археологія. доц. Пшеничний Ю.Л.",
                 "lesson_number": 5,
                 "link": 226
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -62,16 +52,6 @@
                 "lesson_name": "Історія стародавнього світу. доц. Слесаренко А.В.",
                 "lesson_number": 5,
                 "link": "О38"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -104,11 +84,6 @@
                 "lesson_name": "Давня, середньовічна  історія Центральної та Східної Європи. доц. Десятничук І.О.",
                 "lesson_number": 6,
                 "link": "https://meet.google.com/ohr-neum-dcs"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -126,26 +101,6 @@
                 "lesson_name": "Педагогіка. доц. Петрук Л.П.",
                 "lesson_number": 3,
                 "link": 226
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 5,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -173,16 +128,6 @@
                 "lesson_name": "Історія стародавнього світу. доц. Слесаренко А.В.",
                 "lesson_number": 5,
                 "link": 230
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -200,26 +145,6 @@
                 "lesson_name": "Педагогіка. доц. Петрук Л.П.",
                 "lesson_number": 3,
                 "link": "https://meet.google.com/obh-ggsr-dmr"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 5,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ]
     ]

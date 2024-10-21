@@ -20,21 +20,6 @@
                 "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
                 "lesson_number": 4,
                 "link": 206
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 5,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [],
@@ -63,16 +48,6 @@
                 "lesson_name": "Організація представницьких закладів доц. Крет О.В.",
                 "lesson_number": 5,
                 "link": 410
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -105,11 +80,6 @@
                 "lesson_name": "Українська мова. доц. Антончук О.М.",
                 "lesson_number": 6,
                 "link": 418
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -127,26 +97,6 @@
                 "lesson_name": "Регіональна мова (польська). доц. Ковалюк В.В. з 20.09",
                 "lesson_number": 3,
                 "link": 222
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 5,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -158,26 +108,6 @@
             {
                 "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
                 "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 4,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 5,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
                 "link": null
             }
         ]

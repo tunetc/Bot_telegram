@@ -25,16 +25,6 @@
                 "lesson_name": "Зв'язки з громадськістю та комунікативні технології доц. Крет О.В.",
                 "lesson_number": 5,
                 "link": 410
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -67,11 +57,6 @@
                 "lesson_name": "Міжнародний інформаційний бізнес доц. Крет Р.М.",
                 "lesson_number": 6,
                 "link": 101
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -104,11 +89,6 @@
                 "lesson_name": "Кібезбезпека в аспекті інформатизації та діджиталізації суспільства доц. Крет Р.М.",
                 "lesson_number": 6,
                 "link": 101
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": "419 ппф122"
             }
         ],
         [
@@ -131,21 +111,6 @@
                 "lesson_name": "Робота з міжнародними джерелами інформації. доц. Крет Р.М.",
                 "lesson_number": 4,
                 "link": 101
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 5,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 6,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ],
         [
@@ -178,11 +143,6 @@
                 "lesson_name": "Зв'язки з громадськістю та комунікативні технології доц. Крет О.В.",
                 "lesson_number": 6,
                 "link": 418
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 7,
-                "link": null
             }
         ]
     ]
