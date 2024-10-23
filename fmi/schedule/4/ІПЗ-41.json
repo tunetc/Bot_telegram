@@ -1,0 +1,94 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Конструювання ПЗ Копелюк В.О.",
+                "lesson_number": 1,
+                "link": "https://softserveinc.zoom.us/j/95917138430"
+            },
+            {
+                "lesson_name": "Конструювання ПЗ Копелюк В.О.",
+                "lesson_number": 2,
+                "link": "https://softserveinc.zoom.us/j/95917138430"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Основи стандартизації та патентознавства Машта Н.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/svm-tbbz-nnw"
+            },
+            {
+                "lesson_name": "Основи стандартизації та патентознавства Машта Н.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/svm-tbbz-nnw"
+            },
+            {
+                "lesson_name": "Економіка і право в IT-галузі Паламарчук О.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/jsm-kops-obm"
+            },
+            {
+                "lesson_name": "Економіка і право в IT-галузі Паламарчук О.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/jsm-kops-obm"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Іноземна мова Трофімчук В.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/npc-axcd-crr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Конструювання ПЗ Копелюк В.О.",
+                "lesson_number": 1,
+                "link": "https://softserveinc.zoom.us/j/95917138430"
+            },
+            {
+                "lesson_name": "Конструювання ПЗ Копелюк В.О.",
+                "lesson_number": 2,
+                "link": "https://softserveinc.zoom.us/j/95917138430"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Якість і тестування програмного забезпечення Турбал Ю.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/dva-rdtb-cvc"
+            },
+            {
+                "lesson_name": "Якість і тестування програмного забезпечення Турбал Ю.В.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/dva-rdtb-cvc"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Трофімчук В.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/npc-axcd-crr"
+            },
+            {
+                "lesson_name": "Економіка і право в IT-галузі Паламарчук О.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/jsm-kops-obm"
+            },
+            {
+                "lesson_name": "Економіка і право в IT-галузі Паламарчук О.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/jsm-kops-obm"
+            }
+        ]
+    ]
+}
