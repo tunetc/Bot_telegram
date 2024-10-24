@@ -1,0 +1,114 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Сучасні парадигми програмування Кирик Т.А.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Моделювання інформаційних процесів та систем Сінчук А.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Моделювання інформаційних процесів та систем Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hmf-ngbm-ibz"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Сучасні парадигми програмування Кирик Т.А.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "14.15 та 15.45 Якість і тестування ІТ-проектів Шліхта Г.О.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Якість і тестування ІТ-проектів Шліхта Г.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            },
+            {
+                "lesson_name": "Якість і тестування ІТ-проектів Шліхта Г.О.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/xsy-vsrs-aoy"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Іноземна мова Романюк С.К.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ogo-bapo-bya"
+            },
+            {
+                "lesson_name": "Іноземна мова Романюк С.К.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ogo-bapo-bya"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "14.15 та 15.45 Сучасні парадигми програмування Кирик Т.А.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            }
+        ]
+    ]
+}
