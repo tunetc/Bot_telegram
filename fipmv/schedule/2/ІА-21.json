@@ -1,0 +1,123 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Музеєзнавство. доц. Доброчинська О.А.",
+                "lesson_number": 2,
+                "link": 222
+            },
+            {
+                "lesson_name": "Музеєзнавство. доц. Доброчинська О.А.",
+                "lesson_number": 3,
+                "link": 222
+            },
+            {
+                "lesson_name": "Історія середніх віків країн Західної Європи та Візантії доц. Озимчук О.Б.",
+                "lesson_number": 4,
+                "link": 222
+            },
+            {
+                "lesson_name": "Історія середніх віків країн Західної Європи та Візантії доц. Озимчук О.Б.",
+                "lesson_number": 5,
+                "link": 222
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Музеєзнавство. доц. Доброчинська О.А.",
+                "lesson_number": 4,
+                "link": 219
+            },
+            {
+                "lesson_name": "Музеєзнавство. доц. Доброчинська О.А.",
+                "lesson_number": 5,
+                "link": 219
+            },
+            {
+                "lesson_name": "Археологія доколумбової Америки доц. Озимчук О.Б.",
+                "lesson_number": 6,
+                "link": "О36"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": 226
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія. доц. Ворон О.П.",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія середніх віків країн Західної Європи та Візантії доц. Озимчук О.Б.",
+                "lesson_number": 5,
+                "link": "О42"
+            },
+            {
+                "lesson_name": "Визначні битви Античності та Середньовіччя доц. Озимчук О.Б.",
+                "lesson_number": 6,
+                "link": "О42"
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Експериментальна археологія. доц. Озимчук О.Б.",
+                "lesson_number": 4,
+                "link": 227
+            },
+            {
+                "lesson_name": "Експериментальна археологія. доц. Озимчук О.Б.",
+                "lesson_number": 5,
+                "link": 227
+            }
+        ]
+    ]
+}
