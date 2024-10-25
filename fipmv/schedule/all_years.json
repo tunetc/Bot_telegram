@@ -1,0 +1,91 @@
+{
+    "all_years": [
+        [
+            {
+                "specialty_name": "ІА-11"
+            },
+            {
+                "specialty_name": "Іст-11"
+            },
+            {
+                "specialty_name": "МВ-11"
+            },
+            {
+                "specialty_name": "ПЛ-11"
+            }
+        ],
+        [
+            {
+                "specialty_name": "ІА-21"
+            },
+            {
+                "specialty_name": "Іст-21"
+            },
+            {
+                "specialty_name": "МВ-21"
+            },
+            {
+                "specialty_name": "ПЛ-21"
+            }
+        ],
+        [
+            {
+                "specialty_name": "ІА-31"
+            },
+            {
+                "specialty_name": "Іст-31"
+            },
+            {
+                "specialty_name": "Іст-32"
+            },
+            {
+                "specialty_name": "МВ-31"
+            },
+            {
+                "specialty_name": "ПЛ-31"
+            }
+        ],
+        [
+            {
+                "specialty_name": "ІА-41"
+            },
+            {
+                "specialty_name": "Іст-41"
+            },
+            {
+                "specialty_name": "Іст-42"
+            },
+            {
+                "specialty_name": "МВ-41"
+            },
+            {
+                "specialty_name": "ПЛ-41"
+            }
+        ],
+        [
+            {
+                "specialty_name": "ІА-11(М)"
+            },
+            {
+                "specialty_name": "Іст-11(М)"
+            },
+            {
+                "specialty_name": "МВ-11 (М)"
+            },
+            {
+                "specialty_name": "ПЛ-11 (М)"
+            }
+        ],
+        [
+            {
+                "specialty_name": "ІА-21(М)"
+            },
+            {
+                "specialty_name": "Іст-21(М)"
+            },
+            {
+                "specialty_name": "ПЛ-21 (М)"
+            }
+        ]
+    ]
+}
