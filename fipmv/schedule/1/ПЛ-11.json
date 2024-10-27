@@ -1,0 +1,151 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Політична риторика. доц. Валюх Л.І.",
+                "lesson_number": 3,
+                "link": 418
+            },
+            {
+                "lesson_name": "Політична риторика. доц. Валюх Л.І.",
+                "lesson_number": 4,
+                "link": 418
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Політична географія. доц. Опанасюк Т.А.",
+                "lesson_number": 3,
+                "link": 226
+            },
+            {
+                "lesson_name": "Іноземна мова. проф. Павелків К.М.",
+                "lesson_number": 4,
+                "link": "н/б до 4 .11"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": 226
+            },
+            {
+                "lesson_name": "Політична географія. доц. Валюх Л.І. ",
+                "lesson_number": 3,
+                "link": 226
+            },
+            {
+                "lesson_name": "Психологія. доц. Ногачевська І.О. ",
+                "lesson_number": 4,
+                "link": "226 потік з іст"
+            },
+            {
+                "lesson_name": "Психологія. доц. Ногачевська І.О. ",
+                "lesson_number": 5,
+                "link": "227 потік з іст"
+            },
+            {
+                "lesson_name": "Психологія. доц. Ногачевська І.О. ",
+                "lesson_number": 6,
+                "link": "227 потік з іст"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Соціологія (за проф. спрямуванням). доц. Невинна Г.Я.",
+                "lesson_number": 3,
+                "link": "н\\б"
+            },
+            {
+                "lesson_name": "Соціологія (за проф. спрямуванням). доц. Невинна Г.Я.",
+                "lesson_number": 4,
+                "link": "н\\б"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Політична риторика. доц. Валюх Л.І.",
+                "lesson_number": 2,
+                "link": 226
+            },
+            {
+                "lesson_name": "Іноземна мова. проф. Павелків К.М. / заміна на політична риторика.",
+                "lesson_number": 3,
+                "link": 418
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова. проф. Павелків К.М. / заміна на 26 жовтня та 2 листопада Історія України. доц. Бондар І.В.",
+                "lesson_number": 2,
+                "link": " іноземна н/б до 4 .11 / покликання на іст. Укр. https://meet.google.com/dbb-jowe-adj"
+            },
+            {
+                "lesson_name": "Іноземна мова. проф. Павелків К.М. / заміна на 26 жовтня та 2 листопада Історія України. доц. Бондар І.В.",
+                "lesson_number": 3,
+                "link": " іноземна н/б до 4 .11 / покликання на іст. Укр. https://meet.google.com/dbb-jowe-adj"
+            },
+            {
+                "lesson_name": "Вступ до спеціальності доц. Вівчар І.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/nge-akjj-jcu"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": "  ",
+                "lesson_number": 6,
+                "link": null
+            }
+        ]
+    ]
+}
