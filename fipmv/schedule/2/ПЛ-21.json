@@ -1,0 +1,130 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова. доц. Данилова Н.Р.",
+                "lesson_number": 3,
+                "link": 206
+            },
+            {
+                "lesson_name": "Іноземна мова. доц. Данилова Н.Р.",
+                "lesson_number": 4,
+                "link": 206
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Вступ до наукових студій. доц. Вівчар І.В.",
+                "lesson_number": 4,
+                "link": 228
+            },
+            {
+                "lesson_name": "Вступ до наукових студій. доц. Вівчар І.В.",
+                "lesson_number": 5,
+                "link": 228
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": 226
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія міжнародних відносин доц. Постельжук О.П.",
+                "lesson_number": 4,
+                "link": 228
+            },
+            {
+                "lesson_name": "Історія міжнародних відносин доц. Постельжук О.П.",
+                "lesson_number": 5,
+                "link": 228
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Політична історія України ХХ-ХХІ ст. доц. Валюх Л.І.",
+                "lesson_number": 4,
+                "link": 228
+            },
+            {
+                "lesson_name": "Політична історія України ХХ-ХХІ ст. доц. Валюх Л.І.",
+                "lesson_number": 5,
+                "link": 228
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія. доц. Ворон О.П. ",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/qke-exbu-die"
+            },
+            {
+                "lesson_name": "Філософія. доц. Ворон О.П. ",
+                "lesson_number": 4,
+                "link": "http://meet.google.com/qke-exbu-die"
+            }
+        ]
+    ]
+}
