@@ -1,0 +1,105 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
+                "lesson_number": 1,
+                "link": 206
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Регіональна мова (польська). доц. Ковалюк В.В.",
+                "lesson_number": 3,
+                "link": 222
+            },
+            {
+                "lesson_name": "Міжнародна інформація та комунікація доц. Кундеус О.М.",
+                "lesson_number": 4,
+                "link": 222
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М. з 28 жовтня",
+                "lesson_number": 2,
+                "link": 206
+            },
+            {
+                "lesson_name": "Дипломатична та консульська служба доц. Крет Р.М.",
+                "lesson_number": 3,
+                "link": "О42"
+            },
+            {
+                "lesson_name": "Дипломатична та консульська служба доц. Крет Р.М.",
+                "lesson_number": 4,
+                "link": "О42"
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
+                "lesson_number": 1,
+                "link": 206
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Регіональна мова (польська). доц. Ковалюк В.В. з 20.09",
+                "lesson_number": 4,
+                "link": 222
+            },
+            {
+                "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
+                "lesson_number": 5,
+                "link": 206
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rwd-jrju-jgh"
+            }
+        ]
+    ]
+}
