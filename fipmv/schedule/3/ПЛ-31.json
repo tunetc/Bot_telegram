@@ -2,13 +2,6 @@
     "week": [
         [
             {
-                "lesson_name": "ПЛ-31",
-                "lesson_number": 1,
-                "link": null
-            }
-        ],
-        [
-            {
                 "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
@@ -93,16 +86,6 @@
                 "lesson_name": "Іноземна мова. ст.в. Трофимчук В.М.",
                 "lesson_number": 4,
                 "link": 206
-            },
-            {
-                "lesson_name": "Політична історія України ХХ-ХХІ ст. доц. Валюх Л.І.",
-                "lesson_number": 5,
-                "link": 228
-            },
-            {
-                "lesson_name": "Політична історія України ХХ-ХХІ ст. доц. Валюх Л.І.",
-                "lesson_number": 6,
-                "link": 228
             }
         ],
         [],

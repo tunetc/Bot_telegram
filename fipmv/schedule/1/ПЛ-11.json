@@ -2,13 +2,6 @@
     "week": [
         [
             {
-                "lesson_name": "ПЛ-11",
-                "lesson_number": 1,
-                "link": null
-            }
-        ],
-        [
-            {
                 "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
@@ -19,14 +12,19 @@
                 "link": null
             },
             {
-                "lesson_name": "Політична риторика. доц. Валюх Л.І.",
+                "lesson_name": null,
                 "lesson_number": 3,
-                "link": 418
+                "link": null
             },
             {
-                "lesson_name": "Політична риторика. доц. Валюх Л.І.",
+                "lesson_name": "Іноземна мова. проф. Павелків К.М.",
                 "lesson_number": 4,
-                "link": 418
+                "link": 226
+            },
+            {
+                "lesson_name": "Іноземна мова. проф. Павелків К.М.",
+                "lesson_number": 5,
+                "link": 226
             }
         ],
         [],
@@ -44,16 +42,6 @@
             {
                 "lesson_name": "Політична географія. доц. Опанасюк Т.А.",
                 "lesson_number": 3,
-                "link": 226
-            },
-            {
-                "lesson_name": "Іноземна мова. проф. Павелків К.М.",
-                "lesson_number": 4,
-                "link": 226
-            },
-            {
-                "lesson_name": "Іноземна мова. проф. Павелків К.М.",
-                "lesson_number": 5,
                 "link": 226
             }
         ],
@@ -77,17 +65,17 @@
             {
                 "lesson_name": "Психологія. доц. Ногачевська І.О. ",
                 "lesson_number": 4,
-                "link": "226 потік з іст"
+                "link": "Войти Zoom Конференция\nhttps://us04web.zoom.us/j/73889419139?pwd=q3zbVqivwaikRYLnHpTMm4Lbm0fFGQ.1\n\nИдентификатор конференции: 738 8941 9139\nКод доступа: mzVeP5"
             },
             {
                 "lesson_name": "Психологія. доц. Ногачевська І.О. ",
                 "lesson_number": 5,
-                "link": "226 потік з іст"
+                "link": null
             },
             {
                 "lesson_name": "Психологія. доц. Ногачевська І.О. ",
                 "lesson_number": 6,
-                "link": "226 потік з іст"
+                "link": null
             }
         ],
         [],
