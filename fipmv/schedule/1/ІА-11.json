@@ -32,7 +32,6 @@
                 "link": 226
             }
         ],
-        [],
         [
             {
                 "lesson_name": null,
@@ -60,7 +59,6 @@
                 "link": 230
             }
         ],
-        [],
         [
             {
                 "lesson_name": null,
@@ -92,6 +90,8 @@
                 "lesson_number": 6,
                 "link": 219
             }
-        ]
+        ],
+        [],
+        []
     ]
 }
