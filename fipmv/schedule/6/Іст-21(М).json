@@ -1,0 +1,31 @@
+{
+    "week": [
+        [],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія країн пострадянського простору доц. Мартинчук І.І.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ryr-vwvm-vda"
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія країн пострадянського простору доц. Мартинчук І.І.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ryr-vwvm-vda"
+            }
+        ]
+    ]
+}
