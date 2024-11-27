@@ -1,0 +1,238 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "час",
+                "lesson_number": 1,
+                "link": "ПЛ-11"
+            }
+        ],
+        [
+            {
+                "lesson_name": "8.00-9.20",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "9.35-10.55",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "11.10-12.30",
+                "lesson_number": 3,
+                "link": "Політична риторика. доц. Валюх Л.І."
+            },
+            {
+                "lesson_name": "12.45-14.05",
+                "lesson_number": 4,
+                "link": "Політична риторика. доц. Валюх Л.І."
+            },
+            {
+                "lesson_name": "14.15-15.35",
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": "15.45-17.05",
+                "lesson_number": 6,
+                "link": null
+            },
+            {
+                "lesson_name": "17.10-18.30",
+                "lesson_number": 7,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": "8.00-9.20",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "9.35-10.55",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "11.10-12.30",
+                "lesson_number": 3,
+                "link": "Політична географія. доц. Опанасюк Т.А."
+            },
+            {
+                "lesson_name": "12.45-14.05",
+                "lesson_number": 4,
+                "link": "Іноземна мова. проф. Павелків К.М."
+            },
+            {
+                "lesson_name": "14.15-15.35",
+                "lesson_number": 5,
+                "link": "Іноземна мова. проф. Павелків К.М."
+            },
+            {
+                "lesson_name": "15.45-17.05",
+                "lesson_number": 6,
+                "link": null
+            },
+            {
+                "lesson_name": "17.10-18.30",
+                "lesson_number": 7,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": "8.00-9.20",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "9.35-10.55",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "11.10-12.30",
+                "lesson_number": 3,
+                "link": "Політична географія. доц. Валюх Л.І. "
+            },
+            {
+                "lesson_name": "12.45-14.05",
+                "lesson_number": 4,
+                "link": "Психологія. доц. Ногачевська І.О. "
+            },
+            {
+                "lesson_name": "14.15-15.35",
+                "lesson_number": 5,
+                "link": "Психологія. доц. Ногачевська І.О. "
+            },
+            {
+                "lesson_name": "15.45-17.05",
+                "lesson_number": 6,
+                "link": "Психологія. доц. Ногачевська І.О. "
+            },
+            {
+                "lesson_name": "17.10-18.30",
+                "lesson_number": 7,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": "8.00-9.20",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "9.35-10.55",
+                "lesson_number": 2,
+                "link": "Іноземна мова. проф. Павелків К.М."
+            },
+            {
+                "lesson_name": "11.10-12.30",
+                "lesson_number": 3,
+                "link": "Соціологія (за проф. спрямуванням). доц. Невинна Г.Я."
+            },
+            {
+                "lesson_name": "12.45-14.05",
+                "lesson_number": 4,
+                "link": "Соціологія (за проф. спрямуванням). доц. Невинна Г.Я."
+            },
+            {
+                "lesson_name": "14.15-15.35",
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": "15.45-17.05",
+                "lesson_number": 6,
+                "link": null
+            },
+            {
+                "lesson_name": "17.10-18.30",
+                "lesson_number": 7,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": "8.00-9.20",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "9.35-10.55",
+                "lesson_number": 2,
+                "link": "Психологія. доц. Ногачевська І.О. "
+            },
+            {
+                "lesson_name": "11.10-12.30",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "12.45-14.05",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "14.15-15.35",
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": "15.45-17.05",
+                "lesson_number": 6,
+                "link": null
+            },
+            {
+                "lesson_name": "17.10-18.30",
+                "lesson_number": 7,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": "8.00-9.20",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "9.35-10.55",
+                "lesson_number": 2,
+                "link": " Історія України. доц. Бондар І.В."
+            },
+            {
+                "lesson_name": "11.10-12.30",
+                "lesson_number": 3,
+                "link": " Історія України. доц. Бондар І.В."
+            },
+            {
+                "lesson_name": "12.45-14.05",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "14.15-15.35",
+                "lesson_number": 5,
+                "link": null
+            },
+            {
+                "lesson_name": "15.45-17.05",
+                "lesson_number": 6,
+                "link": "  "
+            },
+            {
+                "lesson_name": "17.10-18.30",
+                "lesson_number": 7,
+                "link": null
+            }
+        ]
+    ]
+}
