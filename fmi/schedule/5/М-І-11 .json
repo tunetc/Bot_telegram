@@ -1,0 +1,35 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 0,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика застосуванння комп'ютерної техніки за проф. спрямуванням доц. Гаврилюк В.І. / доц. Гнедко Н.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і методика навчання інформатики в старшій школі проф. Павлова Н.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і методика навчання інформатики в старшій школі проф. Павлова Н.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [],
+        [],
+        []
+    ]
+}
