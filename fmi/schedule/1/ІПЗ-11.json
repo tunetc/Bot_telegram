@@ -1,0 +1,73 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Алгоритми та структури даних доц. Сяський В.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритми та структури даних доц. Сяський В.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова ст.в. Данілова Н.Р.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Програмування доц. Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Лінійна алгебра та аналітична геометрія доц. Білецький В.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математична логіка доц. Сінчук А.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритми та структури даних доц. Сяський В.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Лінійна алгебра та аналітична геометрія доц. Білецький В.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математична логіка доц. Сінчук А.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        []
+    ]
+}
