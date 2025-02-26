@@ -1,0 +1,90 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": "Веб-програмування в. Лістьєв З.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теорія програмування доц. Сяський В.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Числові методи доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія програмування доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Числові методи доц. Шевцова Н.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Веб-програмування в. Лістьєв З.С.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Веб-технології та веб-дизайн ст.в. Кирик Т.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Веб-технології та веб-дизайн в. Копелюк В.О.",
+                "lesson_number": 1,
+                "link": "https://logitech.zoom.us/j/97474650185"
+            },
+            {
+                "lesson_name": "Веб-технології та веб-дизайн в. Копелюк В.О.",
+                "lesson_number": 2,
+                "link": "https://logitech.zoom.us/j/97474650185"
+            }
+        ]
+    ]
+}
