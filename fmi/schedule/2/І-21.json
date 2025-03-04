@@ -1,0 +1,88 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія доц. Грицишина М.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "нб Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи проф. Сяський А.О. / в. Литвак А.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Соціальна психологія проф. Немеш О.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Вибрані питання STEM-освіти ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Вікова і педагогічна психологія доц. Кулакова Л.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи композиції ст.в. Локшук І.М.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи композиції ст.в. Локшук І.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
+    ]
+}
