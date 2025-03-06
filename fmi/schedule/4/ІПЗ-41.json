@@ -1,0 +1,109 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Основи кібербезпеки доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи кібербезпеки доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "12.45 та 14.15 Менеджмент колективних проектів проф. Пелех О.Б.",
+                "lesson_number": 4,
+                "link": "https://us05web.zoom.us/j/9511919535?pwd=aXdFYm96NlFXWmUvN3BmMXRuSFV5QT09"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Захист інформації доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Захист інформації доц. Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Захист інформації доц. Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи електронного документообігу Костенко М.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи електронного документообігу Костенко М.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи електронного документообігу Костенко М.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
+    ]
+}
