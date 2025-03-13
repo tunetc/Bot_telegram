@@ -1,0 +1,78 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Основи кібербезпеки доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи кібербезпеки доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Захист інформації доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Захист інформації доц. Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Методи та системи штучного інтелекту доц. Сяський В.А.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмуванння мобільних пристроїв ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Захист інформації доц. Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        []
+    ]
+}
