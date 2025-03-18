@@ -1,0 +1,57 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": "Теорія систем та системний аналіз доц. Мороз І.П.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія систем та системний аналіз доц. Мороз І.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія систем та системний аналіз доц. Мороз І.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія систем та системний аналіз доц. Мороз І.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія доц. Ворон О.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Безпека життєдіяльності з основами охорони праці проф. Глінчук Ю.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія інформації та кодування доц. Сінчук А.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія інформації та кодування доц. Сінчук А.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        []
+    ]
+}
