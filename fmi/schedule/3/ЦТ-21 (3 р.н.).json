@@ -1,0 +1,88 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова ст.в. Данілова Н.Р.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Цифрова обробка фотографій та комп'ютерна анімація доц. Гнедко Н.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "дистанційно Розробка UI/UX дизайну та web- сервісів доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Програмування мовою С/С ++ доц. Кіндрат П.В.",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Поглиблене вивчення Java доц. Шроль Т.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Формальні мови, граматики й автомати проф. Сяський А.О. / в. Литвак А.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика професійного навчання проф. Войтович І.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика професійного навчання проф. Войтович І.С.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Формальні мови, граматики й автомати проф. Сяський А.О. / в. Литвак А.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Програмування мовою С/С ++ доц. Кіндрат П.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "нб Цифрова обробка фотографій та комп'ютерна анімація доц. Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
