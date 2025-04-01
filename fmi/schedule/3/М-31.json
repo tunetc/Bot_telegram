@@ -1,0 +1,84 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Web-технології та web-дизайн доц. Дубич К.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Сучасні системи програмування ст.в. Гульчук В.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Сучасні системи програмування ст.в. Гульчук В.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і методика виховання доц. Стельмашук Ж.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія доц. Ворон О.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Вікова і педагогічна психологія доц. Кулакова Л.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ]
+    ]
+}
