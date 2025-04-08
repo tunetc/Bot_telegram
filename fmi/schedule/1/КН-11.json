@@ -1,0 +1,68 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Алгоритми та структури даних доц. Сяський В.А.",
+                "lesson_number": 1,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Програмування доц. Бабич С.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ybd-wroa-waw"
+            },
+            {
+                "lesson_name": "Іноземна мова ст.в. Денисюк Л.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/fah-zvqi-gpd"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математична логіка доц. Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/csg-qqzd-een"
+            },
+            {
+                "lesson_name": "Лінійна алгебра та аналітична геометрія доц. Білецький В.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/knq-ttcj-gda"
+            },
+            {
+                "lesson_name": "Математична логіка доц. Сінчук А.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/csg-qqzd-een"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Комп'ютерна фізика ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
+            {
+                "lesson_name": "Алгоритми та структури даних доц. Сяський В.А.",
+                "lesson_number": 2,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Лінійна алгебра та аналітична геометрія доц. Білецький В.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/knq-ttcj-gda"
+            },
+            {
+                "lesson_name": "Іноземна мова ст.в. Денисюк Л.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/fah-zvqi-gpd"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математична логіка доц. Сінчук А.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/csg-qqzd-een"
+            }
+        ],
+        []
+    ]
+}

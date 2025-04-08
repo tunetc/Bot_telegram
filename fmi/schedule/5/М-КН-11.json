@@ -1,0 +1,93 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Інноваційні інформаційні технології доц. Петренко С.В. / Дашівський А.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Інноваційні інформаційні технології доц. Петренко С.В. / Дашівський А.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інженерія даних та знань доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Інженерія даних та знань доц. Сяський В.А.",
+                "lesson_number": 4,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Проблеми ідентифікації та розпізнавання образів доц. Мороз І.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/wmy-thfk-sxp"
+            },
+            {
+                "lesson_name": "Аналітичні системи Big Data доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Аналітичні системи Big Data доц. Сяський В.А.",
+                "lesson_number": 4,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Сучасні операційні системи доц. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Проблемно-орієнтоване проектування DDD доц. Петренко С.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Адміністрування сервера БД проф. Сяський А.О. / проф. Турбал Ю.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/wzs-stqa-kzw"
+            },
+            {
+                "lesson_name": "Адміністрування сервера БД проф. Сяський А.О. / проф. Турбал Ю.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/wzs-stqa-kzw"
+            }
+        ],
+        []
+    ]
+}

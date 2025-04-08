@@ -1,0 +1,68 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": "Сучасні системи програмування ст.в. Гульчук В.А.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/bho-wkid-xmy"
+            },
+            {
+                "lesson_name": "Сучасні системи програмування ст.в. Гульчук В.А.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/bho-wkid-xmy"
+            },
+            {
+                "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і методика виховання доц. Стельмашук Ж.Г.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/spg-oorg-fwc"
+            },
+            {
+                "lesson_name": "Філософія доц. Ворон О.П.",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/qke-exbu-die"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/och-znme-hgy"
+            },
+            {
+                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/och-znme-hgy"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Вікова і педагогічна психологія доц. Кулакова Л.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/tys-rzqa-ewf"
+            },
+            {
+                "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
+            }
+        ]
+    ]
+}
