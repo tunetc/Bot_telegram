@@ -1,0 +1,124 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web- сервісів доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/sgm-yccv-jnq"
+            },
+            {
+                "lesson_name": "Розробка UI/UX дизайну та web- сервісів доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/sgm-yccv-jnq"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи програмної інженерії доц. Шроль Т.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/sgm-yccv-jnq"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування мовою С доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/bho-wkid-xmy"
+            },
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/bho-wkid-xmy"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/peb-swwm-ony"
+            },
+            {
+                "lesson_name": "Основи моделюванння мовою UML проф. Руденко В.М.",
+                "lesson_number": 2,
+                "link": "https://teams.microsoft.com/l/meetup-join/19:g4skhgOyo6kDpsIJAxu_ErAeoUu3IGUJQ1xUO1GMUK41@thread.tacv2/1744021381719?context=%7B%22Tid%22:%2251c857e6-1af0-4e29-9cc5-d1ce22a6c40a%22,%22Oid%22:%223a66ba42-3da2-48df-9868-5d3083df6912%22%7D"
+            },
+            {
+                "lesson_name": "Основи моделюванння мовою UML проф. Руденко В.М.",
+                "lesson_number": 3,
+                "link": "https://teams.microsoft.com/l/meetup-join/19:g4skhgOyo6kDpsIJAxu_ErAeoUu3IGUJQ1xUO1GMUK41@thread.tacv2/1744021381719?context=%7B%22Tid%22:%2251c857e6-1af0-4e29-9cc5-d1ce22a6c40a%22,%22Oid%22:%223a66ba42-3da2-48df-9868-5d3083df6912%22%7D"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Вибрані питання STEM-освіти ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/enq-tubg-gug"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Вікова і педагогічна психологія доц. Кулакова Л.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/tys-rzqa-ewf"
+            },
+            {
+                "lesson_name": "Основи композиції ст.в. Локшук І.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/egs-nnky-kgr"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи композиції ст.в. Локшук І.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/egs-nnky-kgr"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
+    ]
+}
