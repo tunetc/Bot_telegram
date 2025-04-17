@@ -1,0 +1,80 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": "Веб-програмування в. Лістьєв З.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ppe-kmna-nwy"
+            },
+            {
+                "lesson_name": "Історія української культури доц. Тюска В.Б.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/hed-gter-ijr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теорія програмування доц. Сяський В.А.",
+                "lesson_number": 1,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Числові методи доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            },
+            {
+                "lesson_name": "Теорія програмування доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": "https://us04web.zoom.us/j/74587300603?pwd=IlMzDci6mVturzbgamsMKFGKe0qY0n.1"
+            },
+            {
+                "lesson_name": "Числові методи доц. Шевцова Н.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Веб-програмування в. Лістьєв З.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ppe-kmna-nwy"
+            },
+            {
+                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ybd-wroa-waw"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Веб-технології та веб-дизайн ст.в. Кирик Т.А.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            }
+        ],
+        [
+            {
+                "lesson_name": "нб дистанційно Веб-технології та веб-дизайн в. Копелюк В.О./ в. Лістьєв З.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ppe-kmna-nwy"
+            },
+            {
+                "lesson_name": "нб дист. Веб-технології та веб-дизайн в. Копелюк В.О./в. Лістьєв З.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ppe-kmna-nwy"
+            }
+        ]
+    ]
+}
