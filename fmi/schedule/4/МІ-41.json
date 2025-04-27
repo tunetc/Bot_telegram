@@ -1,0 +1,98 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Розв'язування задач підвищеної складності доц. Білецький В.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Розв'язування олімпіадних задач з викор. елементів вищої математики доц. Білецький В.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Вибрані питання шкільного курсу математики проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Розв'язування олімпіадних задач з викор. елементів вищої математики доц. Білецький В.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/knq-ttcj-gda"
+            },
+            {
+                "lesson_name": "Правознавство доц. Лесняк В.Ю.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/arv-pdsx-xvb"
+            },
+            {
+                "lesson_name": "Екологія доц. Герман Н.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/hqn-ftxt-nrn"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Екологія доц. Герман Н.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/hqn-ftxt-nrn"
+            },
+            {
+                "lesson_name": "Розв'язування задач підвищеної складності доц. Білецький В.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/knq-ttcj-gda"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи геометрії доц. Присяжнюк І.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/pjo-ekif-xkn"
+            },
+            {
+                "lesson_name": "Економіка доц. Лукомська О.І.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/dsf-qkht-eyk"
+            },
+            {
+                "lesson_name": "Економіка доц. Лукомська О.І.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/dsf-qkht-eyk"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Вибрані питання шкільного курсу математики проф. Крайчук О.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ntz-mctt-xbt"
+            },
+            {
+                "lesson_name": "Правознавство доц. Лесняк В.Ю.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/arv-pdsx-xvb"
+            },
+            {
+                "lesson_name": "Основи геометрії доц. Присяжнюк І.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/pjo-ekif-xkn"
+            }
+        ],
+        []
+    ]
+}
