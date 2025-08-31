@@ -1,0 +1,73 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей та математична статистика проф. Крайчук О.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей та математична статистика проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання математики проф. Павелків О.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей та математична статистика проф. Крайчук О.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей та математична статистика проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей та математична статистика проф. Крайчук О.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей та математична статистика проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
