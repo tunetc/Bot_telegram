@@ -1,0 +1,84 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "нб Логічне програмування доц. Сяський В.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи ст.в. Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Логічне програмування доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Логічне програмування доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Скриптові мови програмування доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Скриптові мови програмування доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Логічне програмування доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Логічне програмування доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Соціально-політичні студії доц. Кундеус О.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Соціально-політичні студії доц. Кундеус О.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
