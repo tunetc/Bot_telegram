@@ -1,0 +1,63 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Загальна алгебра ст.в. Тимчук М.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретико-методичні основи викладання математики у закладах ЗСО доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Загальна алгебра ст.в. Тимчук М.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретико-методичні основи викладання математики у закладах ЗСО доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретико-методичні основи викладання математики у закладах ЗСО доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Функціональний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Функціональний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Ясногурська Л.М.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}
