@@ -1,0 +1,106 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Нейронні мережі доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044 Passcode: 2025",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Нейронні мережі доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044 Passcode: 2025",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Технології хмарних обчислень доц. Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            },
+            {
+                "lesson_name": "дистанційно Хмарні обчислення та технології доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            },
+            {
+                "lesson_name": "дистанційно Проектування інформаційних систем ст.в. Кирик Т.А.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Менеджмент колективних проєктів проф. Пелех О.Б.",
+                "lesson_number": 1,
+                "link": "https://us05web.zoom.us/j/9511919535?pwd=aXdFYm96NlFXWmUvN3BmMXRuSFV5QT09"
+            },
+            {
+                "lesson_name": "дистанційно Менеджмент колективних проєктів проф. Пелех О.Б.",
+                "lesson_number": 2,
+                "link": "https://us05web.zoom.us/j/9511919535?pwd=aXdFYm96NlFXWmUvN3BmMXRuSFV5QT09"
+            },
+            {
+                "lesson_name": "дистанційно Проектування інформаційних систем ст.в. Кирик Т.А.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            },
+            {
+                "lesson_name": "дистанційно Проектування інформаційних систем ст.в. Кирик Т.А.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/qvv-yant-fjr"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Нейронні мережі доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044 Passcode: 2025",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Нейронні мережі доц. Сяський В.А. https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1 Meeting ID: 790 0601 9044 Passcode: 2025",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "дистанційно Технології хмарних обчислень доц. Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            },
+            {
+                "lesson_name": "дистанційно Технології хмарних обчислень доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/kdo-mbqz-krp"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "дистанційно Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            }
+        ]
+    ]
+}
