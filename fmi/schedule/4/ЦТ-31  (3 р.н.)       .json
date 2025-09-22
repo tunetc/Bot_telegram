@@ -1,0 +1,78 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова ст.в. Денисюк Л.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "3 D анімація в. Прокопюк Л.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/abr-wuiu-ywc"
+            },
+            {
+                "lesson_name": "3 D анімація в. Прокопюк Л.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/abr-wuiu-ywc"
+            },
+            {
+                "lesson_name": "Програмування комп'ютерних ігор доц. Шроль Т.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/abr-wuiu-ywc"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Аудіо та відеомонтаж ст.в. Шидловський А.І.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень доц. Гнедко Н.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методи обробки цифрових зображень доц. Гнедко Н.М.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ]
+    ]
+}
