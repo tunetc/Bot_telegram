@@ -1,0 +1,78 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Педагогіка доц. Галатюк М.Ю.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Проективна геометрія і методи зображень ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Практикум з розв'язування алгебраїчних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Педагогіка доц. Галатюк М.Ю.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Проективна геометрія і методи зображень ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Архітектура комп'ютерних систем ст.в. Шидловський А.І.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Педагогіка доц. Галатюк М.Ю.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Дискретна математика доц. Полюхович Н.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритмізація і програмування доц. Крайчук С.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Прикладне програмне забезпечення проф. Остапчук Н.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        []
+    ]
+}
