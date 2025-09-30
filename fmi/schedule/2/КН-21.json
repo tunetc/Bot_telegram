@@ -1,0 +1,94 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "ООП ст.в. Кирик Т.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи інженерії програмного забезпечення доц. Петренко С.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Скриптові мови програмування ст.в. Кирик Т.А.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Основи інженерії програмного забезпечення доц. Петренко С.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            },
+            {
+                "lesson_name": "дистанційно Основи інженерії програмного забезпечення доц. Петренко С.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей і математична статистика проф. Петрівський Я.Б.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Об'єктно-орієнтоване програмування проф. Турбал Ю.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "нб Теорія алгоритмів та СО доц. Шевцова Н.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Українська мова доц. Павлюк Н.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерна графіка доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "ООП ст.в. Кирик Т.А.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія ймовірностей і математична статистика проф. Петрівський Я.Б.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ]
+    ]
+}

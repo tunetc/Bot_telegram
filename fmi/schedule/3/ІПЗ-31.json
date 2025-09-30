@@ -1,0 +1,111 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Кросплатформене програмування доц. Петренко С.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Кросплатформене програмування ст.в. Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Скриптові мови програмування доц. Сяський В.А.",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Скриптові мови програмування ст.в. Кирик Т.А.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи ст.в. Ляшук Т.Г.",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Адміністрування баз даних доц. Крайчук С.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Адміністрування баз даних доц. Крайчук С.О.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Кросплатформене програмування доц. Петренко С.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/gmw-ayke-iua"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Соціально-політичні студії доц. Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "дистанційно Соціально-політичні студії доц. Кундеус О.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "дистанційно Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/aam-bmke-eon"
+            }
+        ]
+    ]
+}
