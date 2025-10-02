@@ -1,0 +1,104 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія педагогіки доц. Галатюк М.Ю.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування мовою java доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування мовою java доц. Шроль Т.С.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Технології коучингу в освіті проф. Павлова Н.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Технології коучингу в освіті проф. Павлова Н.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Векторна та растрова графіка доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "3D- графіка доц. Фещук Ю.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "3D- графіка доц. Фещук Ю.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теорія і методика вихованння доц. Стельмашук Ж.Г.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Програмування мовою java доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "дистанційно Методика навчання інформатики проф. Павлова Н.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            },
+            {
+                "lesson_name": "дистанційно Методика навчання інформатики проф. Павлова Н.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            },
+            {
+                "lesson_name": "дистанційно Векторна та растрова графіка доц. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ]
+    ]
+}
