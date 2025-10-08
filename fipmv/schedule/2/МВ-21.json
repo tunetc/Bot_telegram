@@ -1,0 +1,89 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Звяки з громадськістю та КТ. доц. Крет О.В.",
+                "lesson_number": 3,
+                "link": 418
+            },
+            {
+                "lesson_name": "Робота з міжнародними джерелами інформації. доц. Крет Р.М.",
+                "lesson_number": 4,
+                "link": 222
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Соціологія доц. Анрощук І.М.",
+                "lesson_number": 3,
+                "link": 122
+            },
+            {
+                "lesson_name": "Кібербезпека в аспекті інформатизації а цифровізації. доц. Крет Р.М.",
+                "lesson_number": 4,
+                "link": 222
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Проблеми національної та регіональної безпеки. доц. Вівчар І.В.",
+                "lesson_number": 2,
+                "link": 220
+            },
+            {
+                "lesson_name": "Джерелознавство доц. Андрощук І.М.",
+                "lesson_number": 3,
+                "link": 122
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "День самопідготовки",
+                "lesson_number": 2,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Кібербезпека в аспекті інформатизації а цифровізації. доц. Крет Р.М.",
+                "lesson_number": 2,
+                "link": "КК"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Історія України поч. ХХ-поч. ХХі ст. доц. Карпухіна Т.О.",
+                "lesson_number": 1,
+                "link": 227
+            },
+            {
+                "lesson_name": "Історія Волині. проф. Давидюк Р.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Новітня історія країн Європи та Північної Америки. доц. Мартинчук І.І.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія освіти в Західній Україні у першій половині ХХ століття. доц. Доброчинська В.А.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія Волині. проф Давидюк Р.П.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Новітня історія країн Європи та Північної Америки. доц. Мартинчук І.І.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Новітня історія країн Європи та Північної Америки. доц. Мартинчук І.І.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія Волині. проф. Давидюк Р.П. / Комунікаційний тренінг у професійній діяльності історика. доц. Пальчевський Р.С.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Політична еміграція в Польщі. проф. Давидюк Р.П. / Український молодіжний рух в Зх. Україні у міжвоєнний період. доц. Пальчевський Р.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Політична еміграція в Польщі. проф. Давидюк Р.П. ",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання шкільного курсу історії. доц. Бондар І.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Методика навчання шкільного курсу історії. доц. Бондар І.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Нова та новітня історія ЦСЄ. доц. Синяк С.Л.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Історична географія доц. Доброчинська В.М.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Історична географія доц. Доброчинська В.М.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Історія освіти в Західній Україні у першій половині ХХ століття. доц. Півоварчук В.М.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
+    ]
+}
