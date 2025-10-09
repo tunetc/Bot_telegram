@@ -84,6 +84,59 @@
     ],
     [
       {
+        "specialty_name": "Е-31"
+      },
+      {
+        "specialty_name": "Г-31"
+      },
+      {
+        "specialty_name": "Г-32 (ск. т.)"
+      },
+      {
+        "specialty_name": "СХ-31"
+      },
+      {
+        "specialty_name": "Б-31"
+      },
+      {
+        "specialty_name": "Б-32 (ск.т.)"
+      },
+      {
+        "specialty_name": "СБЗ-31"
+      },
+      {
+        "specialty_name": "СБЗ-32(ск.т.)"
+      },
+      {
+        "specialty_name": "СПН-31"
+      },
+      {
+        "specialty_name": "СР-31"
+      },
+      {
+        "specialty_name": "СР-32 (ск. т.)"
+      },
+      {
+        "specialty_name": "П-31"
+      },
+      {
+        "specialty_name": "ПП-31"
+      },
+      {
+        "specialty_name": "ПП-32"
+      },
+      {
+        "specialty_name": "ППСКТ-32"
+      },
+      {
+        "specialty_name": "ФТ-31"
+      },
+      {
+        "specialty_name": "ФТ-32"
+      }
+    ],
+    [
+      {
         "specialty_name": "Е-41"
       },
       {
@@ -152,59 +205,6 @@
       },
       {
         "specialty_name": "МЕ-61"
-      }
-    ],
-    [
-      {
-        "specialty_name": "Е-31"
-      },
-      {
-        "specialty_name": "Г-31"
-      },
-      {
-        "specialty_name": "Г-32 (ск. т.)"
-      },
-      {
-        "specialty_name": "СХ-31"
-      },
-      {
-        "specialty_name": "Б-31"
-      },
-      {
-        "specialty_name": "Б-32 (ск.т.)"
-      },
-      {
-        "specialty_name": "СБЗ-31"
-      },
-      {
-        "specialty_name": "СБЗ-32(ск.т.)"
-      },
-      {
-        "specialty_name": "СПН-31"
-      },
-      {
-        "specialty_name": "СР-31"
-      },
-      {
-        "specialty_name": "СР-32 (ск. т.)"
-      },
-      {
-        "specialty_name": "П-31"
-      },
-      {
-        "specialty_name": "ПП-31"
-      },
-      {
-        "specialty_name": "ПП-32"
-      },
-      {
-        "specialty_name": "ППСКТ-32"
-      },
-      {
-        "specialty_name": "ФТ-31"
-      },
-      {
-        "specialty_name": "ФТ-32"
       }
     ]
   ]
