@@ -1,0 +1,63 @@
+{
+    "week": [
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "7.10 12.45 та 15:45 дистанційно Дизайн мислення проф. Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/fqu-kfqo-dke"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "12.45 та 14:15 Командоутворення та лідерство в управлінні ІТ-проектами проф. Шліхта Г.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/fqu-kfqo-dke"
+            }
+        ],
+        [],
+        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Командоутворення та лідерство в управлінні ІТ-проектами проф. Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/fqu-kfqo-dke"
+            },
+            {
+                "lesson_name": "Дизайн мислення проф. Шліхта Г.О.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/fqu-kfqo-dke"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Засоби програмування мультимедійних систем доц. Шроль Т.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/abr-wuiu-ywc"
+            },
+            {
+                "lesson_name": "Засоби програмування мультимедійних систем доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/abr-wuiu-ywc"
+            },
+            {
+                "lesson_name": "Засоби програмування мультимедійних систем доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/abr-wuiu-ywc"
+            }
+        ]
+    ]
+}
