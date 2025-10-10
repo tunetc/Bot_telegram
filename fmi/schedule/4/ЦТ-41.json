@@ -41,27 +41,27 @@
                 "link": null
             },
             {
-                "lesson_name": "нб Шаблонне програмування доц. Шроль Т.С.",
+                "lesson_name": "Шаблонне програмування доц. Шроль Т.С.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/abr-wuiu-ywc"
             },
             {
-                "lesson_name": "нб 3 D анімація в. Прокопюк Л.С.",
+                "lesson_name": "3 D анімація в. Прокопюк Л.С.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/cyr-iimv-pgc"
             },
             {
-                "lesson_name": "нб Шаблонне програмування доц. Шроль Т.С.",
+                "lesson_name": "Шаблонне програмування доц. Шроль Т.С.",
                 "lesson_number": 3,
                 "link": "https://meet.google.com/abr-wuiu-ywc"
             },
             {
-                "lesson_name": "нб 3 D анімація в. Прокопюк Л.С.",
+                "lesson_name": "3 D анімація в. Прокопюк Л.С.",
                 "lesson_number": 3,
                 "link": "https://meet.google.com/cyr-iimv-pgc"
             },
             {
-                "lesson_name": "нб Програмування комп'ютерних ігор доц. Шроль Т.С.",
+                "lesson_name": "Програмування комп'ютерних ігор доц. Шроль Т.С.",
                 "lesson_number": 4,
                 "link": "https://meet.google.com/abr-wuiu-ywc"
             }
@@ -85,6 +85,11 @@
             {
                 "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 4,
                 "link": null
             }
         ],
