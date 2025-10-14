@@ -34,8 +34,13 @@
                 "link": null
             },
             {
-                "lesson_name": "Векторна та растрова графіка доц. Гнедко Н.М.",
+                "lesson_name": "Розробка UI/UX дизайну та web-сервісів доц. Шроль Т.С.",
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Векторна та растрова графіка доц. Гнедко Н.М.",
+                "lesson_number": 4,
                 "link": null
             }
         ],
