@@ -46,6 +46,18 @@
             }
         ],
         [],
-        []
+        [],
+        [
+            {
+                "lesson_name": "дистанційно Вибрані питання шкільного курсу інформатики проф. Павлова Н.С.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            },
+            {
+                "lesson_name": "дистанційно Вибрані питання шкільного курсу інформатики проф. Павлова Н.С.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            }
+        ]
     ]
 }
