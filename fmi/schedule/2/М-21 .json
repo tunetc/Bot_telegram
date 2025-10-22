@@ -2,7 +2,7 @@
     "week": [
         [
             {
-                "lesson_name": "Педагогіка доц. Галатюк М.Ю.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
@@ -19,7 +19,7 @@
         ],
         [
             {
-                "lesson_name": "Педагогіка доц. Галатюк М.Ю.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
@@ -41,12 +41,12 @@
         ],
         [
             {
-                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": "Педагогіка доц. Галатюк М.Ю.",
+                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
                 "lesson_number": 2,
                 "link": null
             },
