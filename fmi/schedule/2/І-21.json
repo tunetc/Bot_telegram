@@ -7,8 +7,18 @@
                 "link": null
             },
             {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_name": null,
                 "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_number": 4,
                 "link": null
             }
         ],
@@ -24,7 +34,7 @@
                 "link": null
             },
             {
-                "lesson_name": "Основи здоров'язбереження та БЖД проф. Глінчук Ю.О.",
+                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
                 "lesson_number": 3,
                 "link": null
             }

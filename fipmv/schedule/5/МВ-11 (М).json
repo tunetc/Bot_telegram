@@ -1,0 +1,99 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерно-інформаційні технології (в галузі) проф. Войтович І.С.",
+                "lesson_number": 5,
+                "link": "https://meet.google.com/dvd-xzjb-qew"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Механізми регулювання сучасних міжнародних відносин. доц. Вівчар І.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/nge-akjj-jcu"
+            },
+            {
+                "lesson_name": "Механізми регулювання сучасних міжнародних відносин. доц. Вівчар І.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/nge-akjj-jcu"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Ділова та дипломатична комунікація. доц. Крет О.В.",
+                "lesson_number": 2,
+                "link": "http://meet.google.com/eah-ment-gbz"
+            },
+            {
+                "lesson_name": "Міжнародні системи та глобальний розвиток. доц. Крет Р.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/tts-bbbp-hzo"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Проблеми національної та регіональної безпеки. доц. Кундеус О.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Проблеми національної та регіональної безпеки. доц. Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Зв'язки із громадскістю в міжнародних відносинах. доц. Крет О.В.",
+                "lesson_number": 2,
+                "link": "http://meet.google.com/eah-ment-gbz"
+            },
+            {
+                "lesson_name": "Зв'язки із громадскістю в міжнародних відносинах. доц. Крет О.В.",
+                "lesson_number": 3,
+                "link": "http://meet.google.com/eah-ment-gbz"
+            }
+        ]
+    ]
+}
