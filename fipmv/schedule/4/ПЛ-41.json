@@ -1,0 +1,64 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Соціально-політичні аспекти демографії та етнографії. доц. Валюх Л.І. Н/б",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/rik-rcnk-fmc"
+            },
+            {
+                "lesson_name": "Політика і економіка. доц. Постельжук О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ewm-sdyg-yha"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Політика і особа . доц. Валюх Л.І. Н/б",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/rik-rcnk-fmc"
+            },
+            {
+                "lesson_name": "Політика і особа . доц. Валюх Л.І. ",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/rik-rcnk-fmc"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Публічна політика проф. Герасимчук Т.Ф.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/dtz-hrxh-kuc"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Прикладна політологія. доц. Постельжук О.П. н/б",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ewm-sdyg-yha"
+            },
+            {
+                "lesson_name": "Прикладна політологія. доц. Постельжук О.П. н/б",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ewm-sdyg-yha"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Політичний менеджмент і політичний маркетинг доц. Постельжук О.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/ewm-sdyg-yha"
+            },
+            {
+                "lesson_name": "Політичний менеджмент і політичний маркетинг доц. Постельжук О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/ewm-sdyg-yha"
+            }
+        ]
+    ]
+}
