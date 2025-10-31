@@ -46,7 +46,7 @@
                 "link": null
             },
             {
-                "lesson_name": "Українська мова доц. Шульжук Н.В.",
+                "lesson_name": null,
                 "lesson_number": 3,
                 "link": null
             },
@@ -66,21 +66,16 @@
                 "lesson_name": "Елементарна математика доц. Генсіцька-Антонюк Н.О.",
                 "lesson_number": 2,
                 "link": null
-            },
-            {
-                "lesson_name": "Лінійна алгебра проф. Крайчук О.В.",
-                "lesson_number": 3,
-                "link": null
             }
         ],
         [
             {
-                "lesson_name": "нб Аналітична геометрія доц. Білецький В.В.",
+                "lesson_name": "Аналітична геометрія доц. Білецький В.В.",
                 "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": "Лінійна алгебра проф. Крайчук О.В.",
+                "lesson_name": "Аналітична геометрія доц. Білецький В.В.",
                 "lesson_number": 2,
                 "link": null
             },
