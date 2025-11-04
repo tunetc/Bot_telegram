@@ -44,16 +44,6 @@
                 "lesson_name": "Вступ до вищої математика доц. Білецький В.В.",
                 "lesson_number": 2,
                 "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Інформаційно-комунікаційні технології доц. Полюхович Н.В.",
-                "lesson_number": 4,
-                "link": null
             }
         ],
         [
@@ -82,6 +72,11 @@
             {
                 "lesson_name": "Історія України доц. Шеретюк В.М.",
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Інформаційно-комунікаційні технології доц. Полюхович Н.В.",
+                "lesson_number": 4,
                 "link": null
             }
         ]
