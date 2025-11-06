@@ -12,7 +12,7 @@
                 "link": null
             },
             {
-                "lesson_name": "Програмування доц. Шевцова Н.В.",
+                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
                 "lesson_number": 3,
                 "link": null
             }
@@ -46,13 +46,8 @@
                 "link": null
             },
             {
-                "lesson_name": "Програмування доц. Шевцова Н.В.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
                 "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
-                "lesson_number": 3,
+                "lesson_number": 2,
                 "link": null
             }
         ],
