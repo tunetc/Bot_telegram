@@ -7,13 +7,18 @@
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 2,
                 "link": null
             },
             {
                 "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Пакети математичних програм доц. Полюхович Н.В.",
+                "lesson_number": 4,
                 "link": null
             }
         ],
@@ -71,22 +76,22 @@
                 "lesson_name": "Психологія доц. Ногачевська І.О.",
                 "lesson_number": 3,
                 "link": null
+            },
+            {
+                "lesson_name": "Психологія доц. Ногачевська І.О.",
+                "lesson_number": 4,
+                "link": null
             }
         ],
         [
             {
-                "lesson_name": null,
+                "lesson_name": "нб Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "нб Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "нб Пакети математичних програм доц. Полюхович Н.В.",
-                "lesson_number": 3,
                 "link": null
             }
         ]
