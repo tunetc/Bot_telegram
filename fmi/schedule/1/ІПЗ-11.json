@@ -46,31 +46,19 @@
                 "link": null
             },
             {
-                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
-                "lesson_number": 2,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Історія української держави і культури доц. Шеретюк В.М.",
+                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Математичний аналіз доц. Присяжнюк І.М.",
+                "lesson_name": "нб Історія української держави і культури доц. Шеретюк В.М.",
                 "lesson_number": 3,
                 "link": null
             }
         ],
         [
             {
-                "lesson_name": "ПЗ ОС доц. Бабич С.М.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
@@ -78,7 +66,13 @@
                 "lesson_name": "Історія української держави і культури доц. Шеретюк В.М.",
                 "lesson_number": 2,
                 "link": null
+            },
+            {
+                "lesson_name": "Історія української держави і культури доц. Шеретюк В.М.",
+                "lesson_number": 3,
+                "link": null
             }
-        ]
+        ],
+        []
     ]
 }

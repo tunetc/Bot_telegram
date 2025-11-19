@@ -7,6 +7,11 @@
                 "link": null
             },
             {
+                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
                 "lesson_name": null,
                 "lesson_number": 2,
                 "link": null
@@ -61,24 +66,12 @@
         ],
         [
             {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
             {
                 "lesson_name": "Алгоритмізація і програмування в Python Прокопюк Л.С.",
-                "lesson_number": 2,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": "Психологія доц. Ногачевська І.О.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Психологія доц. Ногачевська І.О.",
                 "lesson_number": 2,
                 "link": null
             },
@@ -86,10 +79,22 @@
                 "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
                 "lesson_number": 3,
                 "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_number": 2,
+                "link": null
             },
             {
                 "lesson_name": "Алгоритмізація і програмування в Python Прокопюк Л.С.",
-                "lesson_number": 4,
+                "lesson_number": 3,
                 "link": null
             }
         ],

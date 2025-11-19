@@ -4,7 +4,7 @@
             {
                 "lesson_name": "дистанційно ООП ст.в. Кирик Т.А.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://ttps://meet.google.com/qvv-yant-fjr"
             },
             {
                 "lesson_name": "дистанційно Об'єктно-орієнтоване програмування проф. Турбал Ю.В.",
@@ -24,17 +24,17 @@
         ],
         [
             {
-                "lesson_name": "Веб-технології та веб-дизайн ст.в. Гаврюсєв С.М.",
+                "lesson_name": "дистанційно Веб-технології та веб-дизайн ст.в. Гаврюсєв С.М.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/ncv-iaqs-ebe"
             },
             {
-                "lesson_name": "Українська мова доц. Павлюк Н.П.",
+                "lesson_name": "дистанційно Об'єктно-орієнтоване програмування проф. Турбал Ю.В.",
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Комп'ютерна графіка доц. Гнедко Н.М.",
+                "lesson_name": null,
                 "lesson_number": 3,
                 "link": null
             },
@@ -71,21 +71,6 @@
                 "lesson_name": "Тривимірна графіка і анімація Джус М./ Гаврюсєв С.М.",
                 "lesson_number": 1,
                 "link": null
-            },
-            {
-                "lesson_name": "Українська мова доц. Павлюк Н.П.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Комп'ютерна графіка доц. Гнедко Н.М.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Комп'ютерна графіка доц. Гнедко Н.М.",
-                "lesson_number": 4,
-                "link": null
             }
         ],
         [
@@ -97,11 +82,6 @@
             {
                 "lesson_name": "Теорія ймовірностей і математична статистика проф. Петрівський Я.Б.",
                 "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Комп'ютерна графіка доц. Гнедко Н.М.",
-                "lesson_number": 3,
                 "link": null
             }
         ],
