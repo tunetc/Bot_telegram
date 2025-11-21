@@ -12,8 +12,13 @@
                 "link": null
             },
             {
-                "lesson_name": "Дискретний аналіз доц. Шевцова Н.В.",
+                "lesson_name": "Комп'ютерна фізика ст.в. Ляшук Т.Г.",
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп'ютерна фізика ст.в. Ляшук Т.Г.",
+                "lesson_number": 4,
                 "link": null
             }
         ],
@@ -51,28 +56,12 @@
                 "link": null
             },
             {
-                "lesson_name": "нб Історія української держави і культури доц. Шеретюк В.М.",
-                "lesson_number": 3,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Історія української держави і культури доц. Шеретюк В.М.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
                 "lesson_name": "Історія української держави і культури доц. Шеретюк В.М.",
                 "lesson_number": 3,
                 "link": null
             }
         ],
+        [],
         []
     ]
 }
