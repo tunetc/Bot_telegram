@@ -1,5 +1,6 @@
 {
     "week": [
+        [],
         [
             {
                 "lesson_name": null,
@@ -7,39 +8,17 @@
                 "link": null
             },
             {
-                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
+                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
                 "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Інтернет речей доц. Шинкарчук Н.В.",
-                "lesson_number": 4,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
                 "lesson_number": 4,
                 "link": null
             }
@@ -56,28 +35,17 @@
                 "link": null
             },
             {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
                 "lesson_number": 3,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
-                "lesson_number": 3,
+                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_number": 4,
                 "link": null
             }
         ],
+        [],
         [
             {
                 "lesson_name": null,
@@ -92,6 +60,11 @@
             {
                 "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_number": 4,
                 "link": null
             }
         ]

@@ -10,16 +10,6 @@
                 "lesson_name": "Операційні системи ст.в. Ляшук Т.Г.",
                 "lesson_number": 2,
                 "link": null
-            },
-            {
-                "lesson_name": "Скриптові мови програмування доц. Сяський В.А.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
-                "link": null
             }
         ],
         [
@@ -39,32 +29,21 @@
                 "link": null
             }
         ],
+        [],
         [
             {
-                "lesson_name": "Аналіз даних Джус М.В. / Сяський В.А.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
             },
             {
-                "lesson_name": "Адміністрування баз даних доц. Крайчук С.О.",
+                "lesson_name": "Аналіз даних Джус М.В. / Сяський В.А.",
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": "Адміністрування баз даних доц. Крайчук С.О.",
+                "lesson_name": "Аналіз даних Джус М.В. / Сяський В.А.",
                 "lesson_number": 3,
-                "link": null
-            }
-        ],
-        [
-            {
-                "lesson_name": "Аналіз даних Джус М.В. / Сяський В.А.",
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Кросплатформене програмування доц. Петренко С.В.",
-                "lesson_number": 2,
                 "link": null
             }
         ],
