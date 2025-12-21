@@ -1,0 +1,94 @@
+{
+    "week": [
+        [
+            {
+                "lesson_name": "Історія української державності та її культури. доц. Візітів Ю.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/duf-ozej-pps"
+            },
+            {
+                "lesson_name": "Історія української державності та її культури. доц. Візітів Ю.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/duf-ozej-pps"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теорія держави і права. доц. Кузьма Т.М.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/hzc-ruyj-tjx"
+            },
+            {
+                "lesson_name": "Історія міжнародних відносин. доц. Кундеус О.М.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            },
+            {
+                "lesson_name": "Історія міжнародних відносин. доц. Кундеус О.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/anw-ytgh-cym"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Теорія міжнародних відносин. доц. Вівчар І.В.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/nge-akjj-jcu"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова за професійним спрямуванням в.Краля І.В",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/ypn-phge-uzc"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Соціальні медіа доц. Андрощук І.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/vgf-jdwr-abf"
+            },
+            {
+                "lesson_name": "Соціальні медіа доц. Андрощук І.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/vgf-jdwr-abf"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи наукових досліджень доц. Андрощук І.М",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/vgf-jdwr-abf"
+            },
+            {
+                "lesson_name": "Основи наукових досліджень доц. Андрощук І.М",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/vgf-jdwr-abf"
+            }
+        ]
+    ]
+}

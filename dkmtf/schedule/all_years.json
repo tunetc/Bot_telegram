@@ -1,0 +1,157 @@
+{
+  "all_years": [
+    [
+      {
+        "specialty_name": "МО-11 (16)"
+      },
+      {
+        "specialty_name": "МГ-11 (13)"
+      },
+      {
+        "specialty_name": "ЕК-11 (3)"
+      },
+      {
+        "specialty_name": "ДІД-11 (5)"
+      },
+      {
+        "specialty_name": "ФА-11 (2)"
+      },
+      {
+        "specialty_name": "СО ФА-11 (5)"
+      },
+      {
+        "specialty_name": "СО Т-11 (7)                                                                                 "
+      },
+      {
+        "specialty_name": "ГРС-11 (5)"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МО-21 (23)"
+      },
+      {
+        "specialty_name": "МГ-21 (9)"
+      },
+      {
+        "specialty_name": "ЕК-21 (4)"
+      },
+      {
+        "specialty_name": "МЕ-21 (2)"
+      },
+      {
+        "specialty_name": "ДІД-21 (4)"
+      },
+      {
+        "specialty_name": "ФА-21 (6)"
+      },
+      {
+        "specialty_name": "СО ФА-21 (11)"
+      },
+      {
+        "specialty_name": "СО ТНТ-21 (8)"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МО-31 (29)"
+      },
+      {
+        "specialty_name": "ПУА-31 (2)"
+      },
+      {
+        "specialty_name": "МГ-31 (13)"
+      },
+      {
+        "specialty_name": "МЕ-31 (3)"
+      },
+      {
+        "specialty_name": "ЕК-31 (3)"
+      },
+      {
+        "specialty_name": "ДІД-31 (4)"
+      },
+      {
+        "specialty_name": "ФА-31 (7)"
+      },
+      {
+        "specialty_name": "СО Ф-31 (17)"
+      },
+      {
+        "specialty_name": "СО ТНТ-31  (20)"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МО-41 (12)"
+      },
+      {
+        "specialty_name": "ПУА-41 (2)"
+      },
+      {
+        "specialty_name": "МГ-41 (22)"
+      },
+      {
+        "specialty_name": "ЕК-41 (5)"
+      },
+      {
+        "specialty_name": "ДІД-41 (6)"
+      },
+      {
+        "specialty_name": "ФА-41 (3)"
+      },
+      {
+        "specialty_name": "СО Ф-41 (9)"
+      },
+      {
+        "specialty_name": "СО ТНТ-41 (21)"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МО-11 маг (4)"
+      },
+      {
+        "specialty_name": "МГ-11 маг (6)"
+      },
+      {
+        "specialty_name": "ЕК-11 маг (1)"
+      },
+      {
+        "specialty_name": "ДІД-11 маг (1)"
+      },
+      {
+        "specialty_name": "ФА-11маг (9)"
+      },
+      {
+        "specialty_name": "СО ФА-11 маг (4)"
+      },
+      {
+        "specialty_name": "СО Т-11 маг  (6)"
+      }
+    ],
+    [
+      {
+        "specialty_name": "МО-21 маг (18)"
+      },
+      {
+        "specialty_name": "МГ-21 маг (3)"
+      },
+      {
+        "specialty_name": "ЕК-21 маг (9)"
+      },
+      {
+        "specialty_name": "ДІД-21 маг (5)"
+      },
+      {
+        "specialty_name": "ФА-21 маг (7)"
+      },
+      {
+        "specialty_name": "СО ФА-21 маг (5)"
+      },
+      {
+        "specialty_name": "СО ТНТ-21 маг (4)"
+      }
+    ]
+  ]
+}
