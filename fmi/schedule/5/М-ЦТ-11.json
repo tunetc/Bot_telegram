@@ -12,39 +12,52 @@
                 "link": null
             },
             {
-                "lesson_name": "Методика навчання комп'ютерних дисциплін та інформаційних технологій проф. Шліхта Г.О.",
+                "lesson_name": null,
                 "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "14:10 год Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Мультимодальна обробка даних в АІ проф. Шліхта Г.О.",
+                "lesson_number": 1,
                 "link": "https://meet.google.com/fqu-kfqo-dke"
             },
             {
-                "lesson_name": "Архітектура, проектування та управління освітніх технологій проф. Шліхта Г.О.",
+                "lesson_name": "Тестування програмного забезпечення проф. Шліхта Г.О.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/fqu-kfqo-dke"
+            },
+            {
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz",
                 "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "11:10 год Мультимодальна обробка даних в АІ проф. Шліхта Г.О.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/fqu-kfqo-dke"
+            },
+            {
+                "lesson_name": "12:45 год Тестування програмного забезпечення проф. Шліхта Г.О.",
+                "lesson_number": 2,
                 "link": "https://meet.google.com/fqu-kfqo-dke"
             }
         ],
         [],
-        [
-            {
-                "lesson_name": "Методика навчання комп'ютерних дисциплін та інформаційних технологій проф. Шліхта Г.О.",
-                "lesson_number": 1,
-                "link": "https://meet.google.com/fqu-kfqo-dke"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": "Архітектура, проектування та управління освітніх технологій проф. Шліхта Г.О.",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/fqu-kfqo-dke"
-            }
-        ],
+        [],
         [
             {
                 "lesson_name": null,
@@ -57,16 +70,15 @@
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz",
                 "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Архітектура, проектування та управління освітніх технологій проф. Шліхта Г.О.",
+                "lesson_name": "Психологія освітньої діяльності доц. Созонюк О.С. (067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/fqu-kfqo-dke"
+                "link": null
             }
-        ],
-        []
+        ]
     ]
 }

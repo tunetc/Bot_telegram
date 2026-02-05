@@ -1,6 +1,5 @@
 {
     "week": [
-        [],
         [
             {
                 "lesson_name": null,
@@ -8,19 +7,14 @@
                 "link": null
             },
             {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/abr-wuiu-ywc"
+                "link": null
             },
             {
-                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
-            },
-            {
-                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "link": null
             }
         ],
         [
@@ -30,23 +24,65 @@
                 "link": null
             },
             {
-                "lesson_name": "Алгоритмізація і програмування в Python доц. Шроль Т.С.",
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/abr-wuiu-ywc"
+                "link": null
             },
             {
-                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "link": null
             },
             {
-                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "link": null
             }
         ],
-        [],
-        [],
+        [
+            {
+                "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Ковалюк В.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія доц. Грицишина М.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
         [
             {
                 "lesson_name": null,
@@ -54,14 +90,19 @@
                 "link": null
             },
             {
-                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "link": null
             },
             {
-                "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
+                "lesson_name": "Соціальна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "link": null
+            },
+            {
+                "lesson_name": "14:15 Операційні системи доц. Кіндрат П.В.",
+                "lesson_number": 4,
+                "link": null
             }
         ]
     ]

@@ -1,9 +1,109 @@
 {
     "week": [
-        [],
-        [],
-        [],
-        [],
-        []
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Методи розв'язування задач на доведення в ШКМ доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Математична логіка та теорія алгоритмів доц. Полюхович Н.В.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Навчання математики з використанням комп'ютерної техніки доц. Сяська Н.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
+                "lesson_number": 3,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_number": 4,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ]
     ]
 }

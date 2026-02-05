@@ -1,9 +1,78 @@
 {
     "week": [
-        [],
-        [],
-        [],
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Адміністрування Unix систем доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Петренко С.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Інтерфейси користувача та системні інтерфейси доц. Петренко С.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Моделювання та проєктування програмного забезпечення доц. Петренко С.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Моделювання та проєктування програмного забезпечення доц. Петренко С.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Адміністрування Unix систем доц. Шинкарчук Н.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "Філософія доц. Грицишина М.В.",
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": null
+            }
+        ],
         []
     ]
 }

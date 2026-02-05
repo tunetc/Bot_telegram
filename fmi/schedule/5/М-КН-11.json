@@ -1,87 +1,38 @@
 {
     "week": [
-        [
-            {
-                "lesson_name": null,
-                "lesson_number": 1,
-                "link": null
-            },
-            {
-                "lesson_name": "Інноваційні інформаційні технології доц. Крайчук С.О.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
-            },
-            {
-                "lesson_name": "Інноваційні інформаційні технології доц. Крайчук С.О.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
-            },
-            {
-                "lesson_name": "Інноваційні інформаційні технології доц. Крайчук С.О.",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
-            }
-        ],
-        [
-            {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
-                "lesson_number": 1,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
-            },
-            {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
-            },
-            {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
-                "lesson_number": 3,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
-            }
-        ],
         [],
         [
             {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
+                "lesson_name": "Проблемно- орієнтоване проєктування DDD доц. Петренко С.В.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
-            },
-            {
-                "lesson_name": "Інноваційні інформаційні технології доц. Крайчук С.О.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Інноваційні інформаційні технології доц. Крайчук С.О.",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "lesson_name": "Аналітичні системи Big Data доц. Сяський В.А.",
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Інженерія даних та знань доц. Сяський В.А.",
+                "lesson_number": 3,
+                "link": null
             }
         ],
         [
             {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
+                "lesson_name": "Аналітичні інструменти хмарних платформ доц. Шевцова Н.В.",
                 "lesson_number": 1,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
+                "link": null
             },
             {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
+                "lesson_name": "Аналітичні системи Big Data доц. Сяський В.А.",
                 "lesson_number": 2,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
+                "link": null
             },
             {
-                "lesson_name": "Якість і тестування ІТ-проєктів проф. Турбал Ю.В.",
+                "lesson_name": "Інженерія даних та знань доц. Сяський В.А.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/orm-tbzc-oaj"
-            },
-            {
-                "lesson_name": "Моделювання інформаційних процесів та систем доц. Присяжнюк І.М.",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/pjo-ekif-xkn"
+                "link": null
             }
         ],
         [
@@ -91,19 +42,31 @@
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Проблемно- орієнтоване проєктування DDD доц. Петренко С.В.",
                 "lesson_number": 2,
                 "link": null
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Технології кросплатформного програмування доц. Петренко С.В.",
                 "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "12.45 та 14.15 Інноваційні інформаційні технології доц. Крайчук С.О.",
+                "lesson_name": "Сучасні операційні системи доц. Шинкарчук Н.В.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/ysw-nczd-vtt"
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": "Сучасні операційні системи доц. Шинкарчук Н.В.",
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Сучасні операційні системи доц. Шинкарчук Н.В.",
+                "lesson_number": 2,
+                "link": null
             }
         ]
     ]
