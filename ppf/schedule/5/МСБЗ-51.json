@@ -1,9 +1,76 @@
 {
   "week": [
-    [],
-    [],
-    [],
-    [],
-    []
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПОД доц. Созонюк О. С.",
+        "link": "14:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПОД доц. Созонюк О. С.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "ІТНБ проф. Грицай Н. Б.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "ІТНБ проф. Грицай Н. Б.",
+        "link": "15:45"
+      },
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПОД доц. Созонюк О. С.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "ЦОРО доц. Трохичук І. М.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "ЦОРО доц. Трохичук І. М.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "МН інтегров. курс доц. Рудь О. Г.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "МН інтегров. курс доц. Рудь О. Г.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "МАЗД доц. Жилінський А. П.",
+        "link": "15:45"
+      },
+      {
+        "lesson_name": "МАЗД доц. Жилінський А. П.",
+        "link": "17:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Гендерний підхід в О і В доц. Петренко О. Б.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "Гендерний підхід в О і В доц. Петренко О. Б.",
+        "link": "15:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПОД доц. Созонюк О. С. ",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПОД доц. Созонюк О. С. ",
+        "link": "11:10"
+      }
+    ]
   ]
 }

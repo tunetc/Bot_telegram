@@ -4,17 +4,22 @@
             {
                 "lesson_name": "Сучасні системи програмування Гульчук В.А.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/bho-wkid-xmy"
             },
             {
                 "lesson_name": "Сучасні системи програмування Гульчук В.А.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/bho-wkid-xmy"
             },
             {
                 "lesson_name": "Теорія і методика виховання доц. Стельмашук Ж.Г.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/atg-geqb-mej"
+            },
+            {
+                "lesson_name": "З 16.02 Конструювання тестів та комп'ютерні технології в тестуванні проф. Павлова Н.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/smp-qmjx-oer"
             }
         ],
         [
@@ -26,73 +31,100 @@
             {
                 "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ysw-nczd-vtt"
             },
             {
                 "lesson_name": "Web-технології в освіті доц. Крайчук С.О.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ysw-nczd-vtt"
+            },
+            {
+                "lesson_name": "з 17.02 Філософія доц. Грицишина М.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/yon-noiz-ysn"
             }
         ],
         [
             {
                 "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             },
             {
                 "lesson_name": "Теорія і методика виховання доц. Стельмашук Ж.Г.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/atg-geqb-mej"
             },
             {
                 "lesson_name": "Методика навчання математики проф. Павелків О.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/och-znme-hgy"
             },
             {
                 "lesson_name": "Філософія доц. Грицишина М.В.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/yon-noiz-ysn"
             }
         ],
         [
             {
                 "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
             },
             {
                 "lesson_name": "Методика навчання математики проф. Павелків О.М.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/och-znme-hgy"
             },
             {
                 "lesson_name": "Основи наукових досліджень проф. Руденко В.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://teams.microsoft.com/meet/3600022848031?p=46kjqVuvGU1J96t6JC"
             },
             {
                 "lesson_name": "Основи наукових досліджень проф. Руденко В.М.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://teams.microsoft.com/meet/3600022848031?p=46kjqVuvGU1J96t6JC"
             }
         ],
         [
             {
                 "lesson_name": "Комплексний аналіз ст.в. Тимчук М.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
             },
             {
                 "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             },
             {
                 "lesson_name": "Соціальна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 3,
+                "link": "https://meet.google.com/hnn-rndj-gwi"
+            },
+            {
+                "lesson_name": "З 20.02 Конструювання тестів та комп'ютерні технології в тестуванні проф. Павлова Н.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
                 "link": null
+            },
+            {
+                "lesson_name": "Конструювання тестів та комп'ютерні технології в тестуванні проф. Юзик О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Конструювання тестів та комп'ютерні технології в тестуванні проф. Юзик О.П.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
             }
         ]
     ]

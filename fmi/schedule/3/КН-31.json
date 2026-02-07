@@ -4,12 +4,12 @@
             {
                 "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
             },
             {
                 "lesson_name": "Інтелектуальний аналіз даних Data Mining доц. Сяський В.А.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
             }
         ],
         [
@@ -21,38 +21,69 @@
             {
                 "lesson_name": "Іноземна мова Краля І.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/sov-eebh-oeb"
             }
         ],
         [
             {
                 "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/kdo-mbqz-krp"
             },
             {
                 "lesson_name": "Розподілені системи та паралельні обчислення доц. Шевцова Н.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/kdo-mbqz-krp"
             },
             {
                 "lesson_name": "Філософія доц. Грицишина М.В.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/yon-noiz-ysn"
             }
         ],
         [
             {
-                "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
+                "lesson_name": null,
                 "lesson_number": 1,
                 "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
+            {
+                "lesson_name": "Проєктування та розробка комп'ютерних ігор ст.в. Ляшук Т.Г.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             }
         ],
-        []
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "з 20.02 Філософія доц. Грицишина М.В.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/yon-noiz-ysn"
+            }
+        ]
     ]
 }

@@ -4,17 +4,17 @@
             {
                 "lesson_name": "Алгоритмізація і програмування доц. Бабич С.М.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
                 "lesson_name": "Комп'ютерна графіка та технології мультимедіа доц. Гнедко Н.М.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/rkb-sbis-cyt"
             },
             {
                 "lesson_name": "Теорія ймовірностей і математична статистика проф. Крайчук О.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             },
             {
                 "lesson_name": null,
@@ -24,24 +24,24 @@
             {
                 "lesson_name": "14:15 Польська мова Волос Н.П.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/fkh-aiog-jvc"
             }
         ],
         [
             {
                 "lesson_name": "Архітектура комп'ютерних систем та мереж доц. Шинкарчук Н.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "http://meet.google.com/aam-bmke-eon"
             },
             {
                 "lesson_name": "Архітектура комп'ютерних систем та мереж доц. Шинкарчук Н.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "http://meet.google.com/aam-bmke-eon"
             },
             {
                 "lesson_name": "Іноземна мова Краля І.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/sov-eebh-oeb"
             },
             {
                 "lesson_name": null,
@@ -53,17 +53,17 @@
             {
                 "lesson_name": "Алгоритмізація і програмування доц. Бабич С.М.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
                 "lesson_name": "Алгоритмізація і програмування доц. Бабич С.М.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
                 "lesson_name": "Філософія доц. Грицишина М.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/yon-noiz-ysn"
             }
         ],
         [
@@ -75,29 +75,34 @@
             {
                 "lesson_name": "Теорія ймовірностей і математична статистика проф. Крайчук О.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             },
             {
                 "lesson_name": "Комп'ютерна графіка та технології мультимедіа доц. Гнедко Н.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/rkb-sbis-cyt"
             }
         ],
         [
             {
-                "lesson_name": null,
+                "lesson_name": "Архітектура комп'ютерних систем та мереж ст.в. Шидловський А.І.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/nhj-zqit-fdz"
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Архітектура комп'ютерних систем та мереж ст.в. Шидловський А.І.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/nhj-zqit-fdz"
             },
             {
                 "lesson_name": "Основи моделювання мовою UML проф. Руденко В.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://teams.microsoft.com/meet/3600022848031?p=46kjqVuvGU1J96t6JC"
+            },
+            {
+                "lesson_name": "з 20.02 Філософія доц. Грицишина М.В.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/yon-noiz-ysn"
             }
         ]
     ]

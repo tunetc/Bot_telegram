@@ -1,9 +1,84 @@
 {
   "week": [
-    [],
-    [],
-    [],
-    [],
-    []
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
+        "link": "14:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "СГМ проф. Лисиця А. В.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "СГМ проф. Лисиця А. В.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "Оцінкка впливу довкілля доц. Суходольська І. Л.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "Оцінкка впливу довкілля доц. Суходольська І. Л.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "МВЕ у ВШ доц. Костолович М. І.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "МВЕ у ВШ доц. Костолович М. І.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "Еколог. люд. доц. Герман А. В.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "Еколог. люд. доц. Герман А. В.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "ЕС і С проф. Сочук Р. М.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "ЕС і С проф. Сочук Р. М.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "ОВД доц. Суходольська І. Л.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "ОВД доц. Суходольська І. Л.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
+        "link": "15:45"
+      }
+    ]
   ]
 }

@@ -29,6 +29,9 @@
         "specialty_name": "СР-11"
       },
       {
+        "specialty_name": "Т-11"
+      },
+      {
         "specialty_name": "П-11"
       },
       {
@@ -68,6 +71,9 @@
       },
       {
         "specialty_name": "СР-21"
+      },
+      {
+        "specialty_name": "Т-21"
       },
       {
         "specialty_name": "П-21"
@@ -182,29 +188,9 @@
       },
       {
         "specialty_name": "МЕ-51"
-      }
-    ],
-    [
-      {
-        "specialty_name": "МП-61"
       },
       {
-        "specialty_name": "МУ-61"
-      },
-      {
-        "specialty_name": "МСБЗ-61"
-      },
-      {
-        "specialty_name": "МБ-61"
-      },
-      {
-        "specialty_name": "МСПН-61"
-      },
-      {
-        "specialty_name": "МСГ-61"
-      },
-      {
-        "specialty_name": "МЕ-61"
+        "specialty_name": "МТ-51"
       }
     ]
   ]

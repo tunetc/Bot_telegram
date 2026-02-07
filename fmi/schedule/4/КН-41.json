@@ -4,7 +4,7 @@
             {
                 "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
                 "lesson_name": null,
@@ -14,7 +14,7 @@
             {
                 "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
                 "lesson_name": null,
@@ -24,7 +24,7 @@
             {
                 "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
                 "lesson_name": null,
@@ -36,17 +36,17 @@
             {
                 "lesson_name": "Захист інформації доц. Кіпдрат П.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
                 "lesson_name": "Захист інформації доц. Кіпдрат П.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
                 "lesson_name": "Криптологія доц. Кіпдрат П.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
                 "lesson_name": null,
@@ -58,12 +58,12 @@
             {
                 "lesson_name": "Методи та системи штучного інтелекту проф. Шліхта Г.О.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/fqu-kfqo-dke"
             },
             {
                 "lesson_name": "Методи та системи штучного інтелекту проф. Шліхта Г.О.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/fqu-kfqo-dke"
             },
             {
                 "lesson_name": null,
@@ -73,7 +73,7 @@
             {
                 "lesson_name": "Програмування мобільних пристроїв ст.в. Ляшук Т.Г.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
                 "lesson_name": null,
@@ -83,10 +83,15 @@
             {
                 "lesson_name": "Програмування мобільних пристроїв ст.в. Ляшук Т.Г.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             }
         ],
         [
+            {
+                "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
+            },
             {
                 "lesson_name": null,
                 "lesson_number": 1,
@@ -95,21 +100,11 @@
             {
                 "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/kqk-dqbq-mjr"
             },
             {
                 "lesson_name": null,
                 "lesson_number": 2,
-                "link": null
-            },
-            {
-                "lesson_name": "Основи робототехніки ст.в. Ляшук Т.Г.",
-                "lesson_number": 3,
-                "link": null
-            },
-            {
-                "lesson_name": null,
-                "lesson_number": 3,
                 "link": null
             }
         ],
@@ -132,7 +127,7 @@
             {
                 "lesson_name": "Основи кібербезпеки доц. Кіпдрат П.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
                 "lesson_name": null,
@@ -142,7 +137,7 @@
             {
                 "lesson_name": "Основи кібербезпеки доц. Кіпдрат П.В.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             }
         ]
     ]

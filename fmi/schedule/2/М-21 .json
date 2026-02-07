@@ -2,58 +2,58 @@
     "week": [
         [
             {
-                "lesson_name": null,
+                "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
             },
             {
                 "lesson_name": "Методи розв'язування задач на доведення в ШКМ доц. Генсіцька-Антонюк Н.О.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/twj-gkse-nmq"
             },
             {
                 "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/vrd-toei-zmx"
             },
             {
                 "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/vrd-toei-zmx"
             }
         ],
         [
             {
                 "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/twj-gkse-nmq"
             },
             {
                 "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/twj-gkse-nmq"
             },
             {
                 "lesson_name": "Математична логіка та теорія алгоритмів доц. Полюхович Н.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/dpr-debq-qok"
             }
         ],
         [
             {
                 "lesson_name": "Практикум з розв'язування геометричних задач доц. Генсіцька-Антонюк Н.О.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/twj-gkse-nmq"
             },
             {
                 "lesson_name": "Навчання математики з використанням комп'ютерної техніки доц. Сяська Н.А.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://us04web.zoom.us/j/9201137986?pwd=U1lScW9jeXlpV0Joc0ZudWRZZmJIZz09"
             },
             {
                 "lesson_name": "Диференціальні рівняння проф. Петрівський Я.Б.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/vrd-toei-zmx"
             }
         ],
         [
@@ -65,17 +65,17 @@
             {
                 "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
             },
             {
                 "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             },
             {
                 "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
             },
             {
                 "lesson_name": null,
@@ -92,16 +92,28 @@
             {
                 "lesson_name": "Диференціальна геометрія і топологія ст.в. Тимчук М.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/sjt-tvmu-dcc"
             },
             {
                 "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ntz-mctt-xbt"
             },
             {
                 "lesson_name": "Алгебра і теорія чисел проф. Крайчук О.В.",
                 "lesson_number": 4,
+                "link": "https://meet.google.com/ntz-mctt-xbt"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_number": 1,
+                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
                 "link": null
             }
         ]

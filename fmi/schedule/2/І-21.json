@@ -12,9 +12,9 @@
                 "link": null
             },
             {
-                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_name": "Бази даних доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             }
         ],
         [
@@ -29,53 +29,53 @@
                 "link": null
             },
             {
-                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_name": "Бази даних доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
                 "lesson_name": "Операційні системи доц. Кіндрат П.В.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             }
         ],
         [
             {
                 "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             },
             {
                 "lesson_name": "Іноземна мова Ковалюк В.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ieq-kiqn-ouo"
             },
             {
                 "lesson_name": "Філософія доц. Грицишина М.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/yon-noiz-ysn"
             }
         ],
         [
             {
                 "lesson_name": "Операційні системи доц. Кіндрат П.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
                 "lesson_name": "Операційні системи доц. Кіндрат П.В.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
-                "lesson_name": "Бази даних ст.в. Гульчук В.А.",
+                "lesson_name": "Бази даних доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
                 "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
             },
             {
                 "lesson_name": null,
@@ -85,23 +85,35 @@
         ],
         [
             {
-                "lesson_name": null,
+                "lesson_name": "14:15 Операційні системи доц. Кіндрат П.В.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/peb-swwm-ony"
             },
             {
                 "lesson_name": "Вікова і педагогічна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             },
             {
                 "lesson_name": "Соціальна психологія доц. Галуха Л.Ю.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/hnn-rndj-gwi"
             },
             {
-                "lesson_name": "14:15 Операційні системи доц. Кіндрат П.В.",
+                "lesson_name": "з 20.02 Філософія доц. Грицишина М.В.",
                 "lesson_number": 4,
+                "link": "https://meet.google.com/yon-noiz-ysn"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_number": 1,
+                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
                 "link": null
             }
         ]

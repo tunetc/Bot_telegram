@@ -9,34 +9,39 @@
             {
                 "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
                 "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "http://meet.google.com/aam-bmke-eon"
             },
             {
                 "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://meet.google.com/qvv-yant-fjr"
             }
         ],
         [
             {
                 "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
                 "lesson_number": 1,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             },
             {
-                "lesson_name": null,
+                "lesson_name": "Безпека життєдіяльності з основами охорони праці проф. Глінчук Ю.О.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/xtz-tfwg-fsh"
             },
             {
                 "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
                 "lesson_number": 3,
-                "link": null
+                "link": "http://meet.google.com/aam-bmke-eon"
+            },
+            {
+                "lesson_name": "Безпека життєдіяльності з основами охорони праці проф. Глінчук Ю.О.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/xtz-tfwg-fsh"
             }
         ],
         [
@@ -48,12 +53,12 @@
             {
                 "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/qvv-yant-fjr"
             },
             {
                 "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/ybd-wroa-waw"
             }
         ],
         [
@@ -65,17 +70,17 @@
             {
                 "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
                 "lesson_number": 2,
-                "link": null
+                "link": "https://meet.google.com/qvv-yant-fjr"
             },
             {
                 "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
                 "lesson_number": 3,
-                "link": null
+                "link": "https://meet.google.com/qvv-yant-fjr"
             },
             {
                 "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
                 "lesson_number": 4,
-                "link": null
+                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
             },
             {
                 "lesson_name": null,
@@ -83,6 +88,18 @@
                 "link": null
             }
         ],
-        []
+        [],
+        [
+            {
+                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_number": 1,
+                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            }
+        ]
     ]
 }
