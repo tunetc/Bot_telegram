@@ -2,60 +2,78 @@
   "week": [
     [
       {
-        "lesson_name": "Г. 7, ауд. 224 Т і МВ доц. Ваколюк А. М.",
+        "lesson_name": "Г. 4, ауд. 11  https://meet.google.com/fte-yaui-swa Т і МВ доц. Ваколюк А. М.",
         "link": "12:45"
       },
       {
-        "lesson_name": "Г. 7, ауд. 224 Т і МВ доц. Ваколюк А. М.",
+        "lesson_name": "Г. 4, ауд. 11  https://meet.google.com/fte-yaui-swa Т і МВ доц. Ваколюк А. М.",
         "link": "14:15"
       },
       {
-        "lesson_name": "Г. 7, ауд. 228 ГСГ доц. Велесик Т. А.",
-        "link": "09:35"
+        "lesson_name": "Г. 7, ауд. 206  https://meet.google.com/dbc-sitx-iez  ГСГ доц. Велесик Т. А.",
+        "link": "09:35 "
       },
       {
-        "lesson_name": "Г. 7, ауд. 228 ГСГ доц. Велесик Т. А.",
+        "lesson_name": "Г. 7, ауд. 206  https://meet.google.com/dbc-sitx-iez ГСГ доц. Велесик Т. А.",
         "link": "11:10"
       }
     ],
     [
       {
-        "lesson_name": "РЕГС доц. Велесик Т. А.",
-        "link": "09:35"
+        "lesson_name": " https://meet.google.com/dbc-sitx-iez РЕГС доц. Велесик Т. А.",
+        "link": "12:45"
       },
       {
-        "lesson_name": "РЕГС доц. Велесик Т. А.",
-        "link": "11:10"
+        "lesson_name": " https://meet.google.com/dbc-sitx-iez РЕГС доц. Велесик Т. А.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "Здорова школа проф. Павелків К. М.",
+        "link": "09:35 https://meet.google.com/aux-satv-ere"
+      },
+      {
+        "lesson_name": "Здорова школа проф. Павелків К. М.",
+        "link": "11:10 https://meet.google.com/aux-satv-ere"
       }
     ],
     [
       {
         "lesson_name": "Спорт-турист робота доц. Логвиненко І. П.",
-        "link": "09:35"
+        "link": "09:35 https://meet.google.com/ckh-esbr-xip"
       },
       {
         "lesson_name": "Спорт-турист робота доц. Логвиненко І. П.",
-        "link": "11:10"
+        "link": "11:10 https://meet.google.com/ckh-esbr-xip"
       }
     ],
     [
       {
-        "lesson_name": "РЕГС доц. Велесик Т. А.",
+        "lesson_name": "https://meet.google.com/dbc-sitx-iez РЕГС доц. Велесик Т. А.",
         "link": "09:35"
       },
       {
-        "lesson_name": "РЕГС доц. Велесик Т. А.",
+        "lesson_name": "https://meet.google.com/dbc-sitx-iez РЕГС доц. Велесик Т. А.",
         "link": "11:10"
       }
     ],
     [
       {
         "lesson_name": "ГЗПЗ доц. Велесик Т. А.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/dbc-sitx-iez"
       },
       {
         "lesson_name": "ГЗПЗ доц. Велесик Т. А.",
-        "link": "14:15"
+        "link": "14:15 https://meet.google.com/dbc-sitx-iez"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Рекр. та геогр. тур. ст. в. Лазарчук В. В.",
+        "link": "09:35 https://meet.google.com/kir-bafu-zik"
+      },
+      {
+        "lesson_name": "Рекр. та геогр. тур. ст. в. Лазарчук В. В.",
+        "link": "11:10 https://meet.google.com/kir-bafu-zik"
       }
     ]
   ]

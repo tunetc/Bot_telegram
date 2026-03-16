@@ -2,35 +2,66 @@
   "week": [
     [
       {
-        "lesson_name": "Г. 4, ауд. 10 ФСС доц. Гуцман С. В.",
+        "lesson_name": "Г. 4, ауд. 10  meet.google.com/nim-rjhk-xxj ФСС доц. Гуцман С. В.",
         "link": "09:35"
       },
       {
-        "lesson_name": "Г. 4, ауд. 10 ФСС доц. Гуцман С. В.",
+        "lesson_name": "Г. 4, ауд. 10 meet.google.com/nim-rjhk-xxj ФСС доц. Гуцман С. В.",
         "link": "11:10"
       }
     ],
     [
       {
         "lesson_name": "Зоогеографія доц. Трохимчук І. М.",
-        "link": "09:35"
+        "link": "09:35 https://meet.google.com/kua-cycu-hoa"
       },
       {
         "lesson_name": "Зоогеографія доц. Трохимчук І. М.",
-        "link": "11:10"
+        "link": "11:10https://meet.google.com/kua-cycu-hoa"
       }
     ],
-    [],
-    [],
-    [],
     [
       {
-        "lesson_name": "БЖД доц. Трохимчук В. М.",
+        "lesson_name": "https://meet.google.com/xqo-vssh-dbu Ф і БР ст. в. Куцоконь Л. П.",
         "link": "12:45"
       },
       {
-        "lesson_name": "БЖД доц. Трохимчук В. М.",
+        "lesson_name": "https://meet.google.com/xqo-vssh-dbu Ф і БР ст. в. Куцоконь Л. П.",
         "link": "14:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "б/а ШКБ ст. в. Гусаковська Т. М.",
+        "link": "14:15 https://meet.google.com/vbg-xzqe-dqj"
+      },
+      {
+        "lesson_name": "б/а ШКБ ст. в. Гусаковська Т. М.",
+        "link": "15:45  https://meet.google.com/vbg-xzqe-dqj"
+      }
+    ],
+    [
+      {
+        "lesson_name": " https://meet.google.com/vbg-xzqe-dqj Вел. пр. з зоології ст. в. Гусоковська Т. М.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://meet.google.com/vbg-xzqe-dqj Вел. пр. з зоології ст. в. Гусоковська Т. М.",
+        "link": "11:10 "
+      }
+    ],
+    [
+      {
+        "lesson_name": "БЖД доц. Трохимчук В. М.",
+        "link": "12:45 https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "БЖД доц. Трохимчук В. М.",
+        "link": "14:15 https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "БЖД доц. Трохимчук В. М.",
+        "link": "15:45 https://meet.google.com/hos-syng-fxp"
       }
     ]
   ]

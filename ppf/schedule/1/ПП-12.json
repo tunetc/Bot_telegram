@@ -2,64 +2,70 @@
   "week": [
     [
       {
-        "lesson_name": "ауд. 419 Педагогіка доц. Галатюк М. Ю.",
+        "lesson_name": "ауд. 419  https://meet.google.com/nnr-mjbi-pit Педагогіка доц. Галатюк М. Ю.",
         "link": "12:45"
       },
       {
-        "lesson_name": "ауд. 419 Педагогіка доц. Галатюк М. Ю.",
+        "lesson_name": "ауд. 419  https://meet.google.com/nnr-mjbi-pit Педагогіка доц. Галатюк М. Ю.",
         "link": "14:15"
       },
       {
         "lesson_name": "ІКТ доц. Синицька Н. В.",
-        "link": "09:35"
+        "link": "09:35 https://meet.google.com/zrz-qhbt-bmv"
       },
       {
         "lesson_name": "ІКТ доц. Синицька Н. В.",
-        "link": "11:10"
-      }
-    ],
-    [],
-    [
-      {
-        "lesson_name": "АСПН доц. Сторож О. В.",
-        "link": "12:45"
-      },
-      {
-        "lesson_name": "АСПН доц. Сторож О. В.",
-        "link": "14:15"
-      },
-      {
-        "lesson_name": "ТІМВ доц. Ваколюк А. М.",
-        "link": "11:10"
-      }
-    ],
-    [],
-    [
-      {
-        "lesson_name": "Іноземна мова",
-        "link": "12:45"
-      },
-      {
-        "lesson_name": "онлайн Загальна психологія доц. Ставицька О. Г.",
-        "link": "15:45"
-      },
-      {
-        "lesson_name": "онлайн Загальна психологія доц. Ставицька О. Г.",
-        "link": "17:15"
+        "link": "11:10 https://meet.google.com/zrz-qhbt-bmv"
       }
     ],
     [
       {
-        "lesson_name": "ІКТ доц. Синицька Н. В.",
+        "lesson_name": "Практикум  доц. Артемова О. І.",
+        "link": "12:45 https://meet.google.com/ffv-rzhn-ttn"
+      },
+      {
+        "lesson_name": "Іноземна мова  ст. в. Денисюк Л. В.",
+        "link": "09:35 https://meet.google.com/dak-uems-ucz"
+      },
+      {
+        "lesson_name": "Іноземна мова  ст. в. Денисюк Л. В.",
+        "link": "11:10 https://meet.google.com/dak-uems-ucz"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/kqv-pjor-wek АСПН доц. Сторож О. В.",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/kqv-pjor-wek АСПН доц. Сторож О. В.",
+        "link": "14:15 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/fte-yaui-swa ТІМВ доц. Ваколюк А. М.",
+        "link": "11:10 "
+      }
+    ],
+    [
+      {
+        "lesson_name": "Практикум доц. Артемова О. І.",
         "link": "12:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": " ст. в. Денисюк Л. В.\"         ",
+        "link": "12:45   Іноземна мова                                                                         https://meet.google.com/dak-uems-ucz"
+      }
+    ],
+    [
+      {
+        "lesson_name": "ІКТ доц. Синицька Н. В.",
+        "link": "12:45 https://meet.google.com/zrz-qhbt-bmv"
       },
       {
         "lesson_name": "ІКТ доц. Синицька Н. В.",
-        "link": "14:15"
-      },
-      {
-        "lesson_name": "ТІМВ доц. Ваколюк А. М.",
-        "link": "11:10"
+        "link": "14:15https://meet.google.com/zrz-qhbt-bmv "
       }
     ]
   ]

@@ -2,43 +2,60 @@
   "week": [
     [
       {
-        "lesson_name": "Прикладна біологія доц. Рудь О. Г.",
-        "link": "14:15"
+        "lesson_name": "Біохім. мех. аутогенезу проф. Загоруйко Г. Є.",
+        "link": "12:45"
       },
       {
         "lesson_name": "Прикладна біологія доц. Рудь О. Г.",
-        "link": "15:45"
+        "link": "14:15 https://meet.google.com/zmy-joxe-gtj"
+      },
+      {
+        "lesson_name": "Прикладна біологія доц. Рудь О. Г.",
+        "link": "15:45 https://meet.google.com/zmy-joxe-gtj"
       }
     ],
     [
       {
-        "lesson_name": "Гідробіологія доц. Воловик Г. П.",
-        "link": "12:45"
+        "lesson_name": "https://meet.google.com/wqe-trem-tdd Гідробіологія доц. Воловик Г. П.",
+        "link": "12:45 "
       },
       {
-        "lesson_name": "Гідробіологія доц. Воловик Г. П.",
-        "link": "14:15"
+        "lesson_name": "https://meet.google.com/wqe-trem-tdd Гідробіологія доц. Воловик Г. П.",
+        "link": "14:15 "
       }
     ],
     [
       {
         "lesson_name": "Психологія управління та менджементу доц. Максимюк Т. П.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/ytt-zkrz-tkc"
       },
       {
         "lesson_name": "Психологія управління та менджементу доц. Максимюк Т. П.",
+        "link": "14:15 https://meet.google.com/ytt-zkrz-tkc"
+      },
+      {
+        "lesson_name": "Біохім. мех. адапт. генезу проф. Загоруйко Г. Є.",
+        "link": "15:45 https://meet.google.com/zbs-htym-ukg"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/zbs-htym-ukg Механіка онтогенезу проф. Загоруйко Г. Є.",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "Механіка онтогенезу проф. Загоруйко Г. Є.",
         "link": "14:15"
       }
     ],
-    [],
     [
       {
         "lesson_name": "КМ в Б доц. Сяський В. А.",
-        "link": "14:15"
+        "link": "14:15 https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
       },
       {
         "lesson_name": "КМ в Б доц. Сяський В. А.",
-        "link": "15:45"
+        "link": "15:45 https://us04web.zoom.us/j/79006019044?pwd=l6Upy6otCLYH99FnaBXaWqSAuMORga.1"
       }
     ]
   ]

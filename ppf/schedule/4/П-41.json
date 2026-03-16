@@ -2,52 +2,98 @@
   "week": [
     [
       {
-        "lesson_name": "онлайн Осн. піскової терап. доц. Ставицька О. Г.",
-        "link": "12:45"
+        "lesson_name": "ауд. 034 Осн. піскової терап. доц. Ставицька О. Г.",
+        "link": "https://meet.google.com/zpr-swuw-mjb 12:45"
       },
       {
-        "lesson_name": "онлайн Осн. піскової терап. доц. Ставицька О. Г.",
-        "link": "14:15"
-      }
-    ],
-    [
-      {
-        "lesson_name": "Спец. практикум ст. в. Савуляк В. О.",
-        "link": "12:45"
+        "lesson_name": "ауд. 034 Осн. піскової терап. доц. Ставицька О. Г.",
+        "link": "https://meet.google.com/zpr-swuw-mjb 14:15 "
       },
       {
-        "lesson_name": "Спец. практикум ст. в. Савуляк В. О.",
-        "link": "14:15"
-      }
-    ],
-    [
-      {
-        "lesson_name": "Іноземна мова Романюк ",
-        "link": "12:45"
-      },
-      {
-        "lesson_name": "Іноземна мова Романюк ",
-        "link": "11:10"
-      }
-    ],
-    [
-      {
-        "lesson_name": "ПМ та У доц. Максимюк Т. П.",
+        "lesson_name": "ауд. 412 Основи психопрофілактики  в. ОмельченкоТ. В.",
         "link": "15:45"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Спец. практикум ст. в. Савуляк В. О.",
+        "link": "12:45 https://meet.google.com/svj-kzzo-hjr"
+      },
+      {
+        "lesson_name": "Спец. практикум ст. в. Савуляк В. О.",
+        "link": "14:15 https://meet.google.com/svj-kzzo-hjr"
+      },
+      {
+        "lesson_name": "Військова психологія в. Чубик М. М.",
+        "link": "09:35 https://auk-edu-ua.zoom.us/j/7206884329?pwd=KrHFUaw4jtAWZ231gwhIy70ia5LMoM.1 "
+      },
+      {
+        "lesson_name": "Військова психологія в. Чубик М. М.",
+        "link": "11:10 https://auk-edu-ua.zoom.us/j/7206884329?pwd=KrHFUaw4jtAWZ231gwhIy70ia5LMoM.1"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Іноземна мова Романюк ",
+        "link": "https://meet.google.com/ogo-bapo-bya 12:45 "
+      },
+      {
+        "lesson_name": "Тренінг особистісного зростання в. Чубик В. В.",
+        "link": "14:15 https://auk-edu-ua.zoom.us/j/7206884329?pwd=KrHFUaw4jtAWZ231gwhIy70ia5LMoM.1"
+      },
+      {
+        "lesson_name": "Тренінг особистісного зростання в. Чубик В. В.",
+        "link": "15:45 https://auk-edu-ua.zoom.us/j/7206884329?pwd=KrHFUaw4jtAWZ231gwhIy70ia5LMoM.1"
+      },
+      {
+        "lesson_name": "Іноземна мова Романюк ",
+        "link": "https://meet.google.com/ogo-bapo-bya 11:10 "
+      }
+    ],
+    [
+      {
+        "lesson_name": "Кризове консультування доц. Главінська О. Д.",
+        "link": "12:45 https://meet.google.com/mfj-dxpq-eoe"
+      },
+      {
+        "lesson_name": "Кризове консультування доц. Главінська О. Д.",
+        "link": "14:15  https://meet.google.com/mfj-dxpq-eoe"
       },
       {
         "lesson_name": "ПМ та У доц. Максимюк Т. П.",
-        "link": "17:15"
+        "link": "15:45 https://meet.google.com/ytt-zkrz-tkc"
+      },
+      {
+        "lesson_name": "ПМ та У доц. Максимюк Т. П.",
+        "link": "17:15 https://meet.google.com/ytt-zkrz-tkc"
       }
     ],
     [
       {
         "lesson_name": "Психологія інкл. освіти доц. Максимюк Т. П.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/ytt-zkrz-tkc"
       },
       {
         "lesson_name": "Психологія інкл. освіти доц. Максимюк Т. П.",
-        "link": "14:15"
+        "link": "14:15 https://meet.google.com/ytt-zkrz-tkc"
+      },
+      {
+        "lesson_name": "Патопсихологія ст. в. Одолінський В. Г.",
+        "link": "09:35 https://meet.google.com/epd-hwzb-fvy"
+      },
+      {
+        "lesson_name": "Патопсихологія ст. в. Одолінський В. Г.",
+        "link": "11:10 https://meet.google.com/epd-hwzb-fvy"
+      }
+    ],
+    [
+      {
+        "lesson_name": " https://auk-edu-ua.zoom.us/j/7206884329?pwd=KrHFUaw4jtAWZ231gwhIy70ia5LMoM.1 Тренінг особистісного зростання в. Чубик В. В.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://auk-edu-ua.zoom.us/j/7206884329?pwd=KrHFUaw4jtAWZ231gwhIy70ia5LMoM.1 Тренінг особистісного зростання в. Чубик В. В.",
+        "link": "11:10 "
       }
     ]
   ]

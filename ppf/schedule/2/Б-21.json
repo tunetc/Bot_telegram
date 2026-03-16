@@ -3,59 +3,83 @@
     [
       {
         "lesson_name": "Біофізика доц. Левчук В. В.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/ciq-iqfw-ypd"
       },
       {
-        "lesson_name": "Біофізика доц. Левчук В. В.",
+        "lesson_name": "https://meet.google.com/ciq-iqfw-ypd Біофізика доц. Левчук В. В.",
         "link": "14:15"
       },
       {
-        "lesson_name": "Г. 7, ауд. 221 Ботаніка  доц. Ойцюсь Л. В.",
+        "lesson_name": "Г. 7, ауд. 224  https://meet.google.com/fcm-ivtg-znx Ботаніка  доц. Ойцюсь Л. В.",
         "link": "09:35"
       },
       {
-        "lesson_name": "Г. 7, ауд. 221 Ботаніка  доц. Ойцюсь Л. В.",
+        "lesson_name": "Г. 7, ауд. 224  https://meet.google.com/fcm-ivtg-znx Ботаніка  доц. Ойцюсь Л. В.",
         "link": "11:10"
       }
     ],
     [
       {
-        "lesson_name": "Хімія аналітична доц. Демчук В. В.",
+        "lesson_name": "ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
         "link": "12:45"
       },
       {
-        "lesson_name": "Хімія орг. та біоорганічна проф. Лисиця А. В.",
+        "lesson_name": "ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "https://meet.google.com/imm-thvt-zjy Хімія орг. та біоорганічна проф. Лисиця А. В.",
+        "link": "09:35 "
+      },
+      {
+        "lesson_name": "н/б https://meet.google.com/imm-thvt-zjy Хімія орг. та біоорганічна проф. Лисиця А. В.",
+        "link": "11:10 "
+      }
+    ],
+    [
+      {
+        "lesson_name": "Біологія грунтів доц. Воловик Г. П. (дівчата) 12:45 ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "Біологія грунтів доц. Воловик Г. П. (дівчата) 12:45 ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "ФЛ і Т проф. Сяська І. О.",
+        "link": "09:35 https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+      },
+      {
+        "lesson_name": "ФЛ і Т проф. Сяська І. О.",
+        "link": "11:10 https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/wqe-trem-tdd б/а Зоологія доц. Воловик Г. П.",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/wqe-trem-tdd б/а Зоологія доц. Воловик Г. П.",
+        "link": "14:15 "
+      },
+      {
+        "lesson_name": " https://meet.google.com/ugm-usqu-jbd Хімія аналітична доц. Демчук В. В.",
         "link": "09:35"
       },
       {
-        "lesson_name": "Хімія орг. та біоорганічна проф. Лисиця А. В.",
-        "link": "11:10"
-      }
-    ],
-    [
-      {
-        "lesson_name": "Біологія грунтів доц. Воловик Г. П.",
-        "link": "12:45"
-      },
-      {
-        "lesson_name": "Біологія грунтів доц. Воловик Г. П.",
-        "link": "14:15"
-      }
-    ],
-    [
-      {
-        "lesson_name": "Зоологія доц. Воловик Г. П.",
-        "link": "12:45"
-      },
-      {
-        "lesson_name": "Зоологія доц. Воловик Г. П.",
-        "link": "14:15"
+        "lesson_name": "Хімія аналітична доц. Демчук В. В.",
+        "link": "11:10 https://meet.google.com/ugm-usqu-jbd"
       }
     ],
     [
       {
         "lesson_name": "Хімія аналітична доц. Демчук В. В.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/ugm-usqu-jbd"
+      },
+      {
+        "lesson_name": "Хімія органічна і біоорганічна доц.Виговський І..В. ",
+        "link": "09:35"
       }
     ]
   ]

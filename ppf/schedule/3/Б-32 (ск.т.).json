@@ -1,45 +1,79 @@
 {
   "week": [
-    [],
     [
       {
-        "lesson_name": "12:45 Генетикак з осн. сел. доц. Гуцман С. В.",
-        "link": "0"
-      },
-      {
-        "lesson_name": "14:15 Генетикак з осн. сел. доц. Гуцман С. В.",
-        "link": "0"
-      }
-    ],
-    [
-      {
-        "lesson_name": "Географія рослин проф. Сяська І. О.",
-        "link": "09:35"
-      },
-      {
-        "lesson_name": "Географія рослин проф. Сяська І. О.",
-        "link": "11:10"
-      }
-    ],
-    [
-      {
-        "lesson_name": "ОНД доц. Рудь О. Г.",
-        "link": "09:35"
-      },
-      {
-        "lesson_name": "ОНД доц. Рудь О. Г.",
-        "link": "11:10"
-      }
-    ],
-    [],
-    [
-      {
-        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "lesson_name": "Г. 7, ауд. 209 ВП з Б ст. в. Куцоконь Л. П.",
         "link": "12:45"
       },
       {
-        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "lesson_name": "Г. 7, ауд. 209 ВП з Б ст. в. Куцоконь Л. П.",
         "link": "14:15"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Генетикак з осн. сел. доц. Гуцман С. В.",
+        "link": "https://meet.google.com/gse-wnoh-zrq"
+      },
+      {
+        "lesson_name": "Генетикак з осн. сел. доц. Гуцман С. В.",
+        "link": "https://meet.google.com/gse-wnoh-zrq"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Ф і БР ст. в. Куцоконь Л. П.",
+        "link": "https://meet.google.com/xqo-vssh-dbu"
+      },
+      {
+        "lesson_name": "Ф і БР ст. в. Куцоконь Л. П.",
+        "link": "https://meet.google.com/xqo-vssh-dbu"
+      }
+    ],
+    [
+      {
+        "lesson_name": "https://meet.google.com/tes-deys-vxz Географія рослин проф. Сяська І. О.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "https://meet.google.com/tes-deys-vxz Географія рослин проф. Сяська І. О.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "https://meet.google.com/zmy-joxe-gtj б/а ОНД доц. Рудь О. Г.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "https://meet.google.com/zmy-joxe-gtj б/а ОНД доц. Рудь О. Г.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "ВП з Б ст. в. Куцоконь Л. П.",
+        "link": "12:45 https://meet.google.com/xqo-vssh-dbu"
+      },
+      {
+        "lesson_name": "ВП з Б ст. в. Куцоконь Л. П.",
+        "link": "14:15 https://meet.google.com/xqo-vssh-dbu"
+      }
+    ],
+    [
+      {
+        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "link": "https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "link": "https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "link": "https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "Осн ентомології ст.в. Гусаковська Т. М.",
+        "link": "09:35 https://meet.google.com/vbg-xzqe-dqj"
       }
     ]
   ]

@@ -1,9 +1,128 @@
 {
     "week": [
-        [],
-        [],
-        [],
-        [],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Іноземна мова Денисюк Л.В.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/dak-uems-ucz"
+            },
+            {
+                "lesson_name": "з 29.03 Системи комп’ютерних публікацій проф. Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "з 29.03 Системи комп’ютерних публікацій доц. Гаврилюк В.І.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 4,
+                "link": null
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "з 31.03 Системи комп’ютерних публікацій доц. Гаврилюк В.І.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "Методика навчання інформатики проф. Павлова Н.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            },
+            {
+                "lesson_name": "Методика навчання інформатики проф. Павлова Н.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Комп’ютерна анімація проф. Гнедко Н.М.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "Комп’ютерна анімація проф. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            },
+            {
+                "lesson_name": "з 18.03 Методика навчання інформатики проф. Павлова Н.С.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 1,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
+                "lesson_number": 2,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "з 19.03 Методика навчання інформатики проф. Павлова Н.С.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/smp-qmjx-oer"
+            },
+            {
+                "lesson_name": "Конструювання тестів та ІКТ в тестуванні проф. Юзик О.П.",
+                "lesson_number": 3,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Конструювання тестів та ІКТ в тестуванні проф. Юзик О.П.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/xpz-nnfn-weh"
+            },
+            {
+                "lesson_name": "Комп’ютерна анімація проф. Гнедко Н.М.",
+                "lesson_number": 4,
+                "link": "https://meet.google.com/rkb-sbis-cyt"
+            }
+        ],
         [],
         [
             {
@@ -12,7 +131,7 @@
                 "link": null
             },
             {
-                "lesson_name": "Конструювання тестів та ІКТ в тестуванні проф. Юзик О.П.",
+                "lesson_name": "Основи штучного інтелекту проф. Юзик О.П.",
                 "lesson_number": 2,
                 "link": "https://meet.google.com/xpz-nnfn-weh"
             },

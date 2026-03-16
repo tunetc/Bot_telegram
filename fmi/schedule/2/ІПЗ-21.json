@@ -7,41 +7,19 @@
                 "link": null
             },
             {
-                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/ybd-wroa-waw"
+                "link": null
+            },
+            {
+                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
+                "lesson_number": 3,
+                "link": "аудиторія 102"
             },
             {
                 "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
-                "lesson_number": 3,
-                "link": "http://meet.google.com/aam-bmke-eon"
-            },
-            {
-                "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
                 "lesson_number": 4,
-                "link": "https://meet.google.com/qvv-yant-fjr"
-            }
-        ],
-        [
-            {
-                "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
-                "lesson_number": 1,
-                "link": "https://meet.google.com/ybd-wroa-waw"
-            },
-            {
-                "lesson_name": "Безпека життєдіяльності з основами охорони праці проф. Глінчук Ю.О.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/xtz-tfwg-fsh"
-            },
-            {
-                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
-                "lesson_number": 3,
-                "link": "http://meet.google.com/aam-bmke-eon"
-            },
-            {
-                "lesson_name": "Безпека життєдіяльності з основами охорони праці проф. Глінчук Ю.О.",
-                "lesson_number": 4,
-                "link": "https://meet.google.com/xtz-tfwg-fsh"
+                "link": "аудиторія 103"
             }
         ],
         [
@@ -51,36 +29,88 @@
                 "link": null
             },
             {
-                "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 1,
+                "link": "аудиторія 419"
+            },
+            {
+                "lesson_name": null,
                 "lesson_number": 2,
-                "link": "https://meet.google.com/qvv-yant-fjr"
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 419"
+            },
+            {
+                "lesson_name": "Комп'ютерні мережі доц. Шинкарчук Н.В.",
+                "lesson_number": 3,
+                "link": "аудиторія 107"
+            },
+            {
+                "lesson_name": "Безпека життєдіяльності з основами охорони праці проф. Глінчук Ю.О.",
+                "lesson_number": 4,
+                "link": "аудиторія 105"
+            }
+        ],
+        [
+            {
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 1,
+                "link": "аудиторія 419"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М.",
+                "lesson_number": 2,
+                "link": "аудиторія 419"
             },
             {
                 "lesson_name": "Бази даних та інформаційні системи доц. Бабич С.М.",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/ybd-wroa-waw"
+                "link": "аудиторія 107"
+            },
+            {
+                "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
+                "lesson_number": 4,
+                "link": "аудиторія 101"
             }
         ],
         [
             {
                 "lesson_name": "з 12.03. Історія української культури проф. Виткалов С.В.",
                 "lesson_number": 1,
+                "link": "аудиторія 230"
+            },
+            {
+                "lesson_name": "з 12.03. Історія української культури проф. Виткалов С.В.",
+                "lesson_number": 2,
+                "link": "аудиторія 230"
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
                 "link": null
             },
             {
-                "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
-                "lesson_number": 2,
-                "link": "https://meet.google.com/qvv-yant-fjr"
-            },
-            {
-                "lesson_name": "Програмування на базі технології .net ст.в. Кирик Т.А.",
+                "lesson_name": "Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М. ауд. 122 гуртожиток 4",
                 "lesson_number": 3,
-                "link": "https://meet.google.com/qvv-yant-fjr"
+                "link": null
             },
             {
-                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю. ауд. 7 гуртожиток 5",
                 "lesson_number": 4,
-                "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
+                "link": null
             },
             {
                 "lesson_name": null,
@@ -88,16 +118,47 @@
                 "link": null
             }
         ],
-        [],
         [
             {
-                "lesson_name": "Долікарська підготовка Пономаренко В.Ю.",
+                "lesson_name": null,
+                "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": "Аналіз вимог до програмного забезпечення проф. Турбал Ю.В.",
+                "lesson_number": 2,
+                "link": "аудиторія 107"
+            },
+            {
+                "lesson_name": "Аналіз вимог до програмного забезпечення ст.в. Кирик Т.А.",
+                "lesson_number": 3,
+                "link": "аудиторія 107"
+            }
+        ],
+        [
+            {
+                "lesson_name": "Долікарська медична підготовка Пономаренко В.Ю.",
                 "lesson_number": 1,
                 "link": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
             },
             {
                 "lesson_name": null,
                 "lesson_number": 1,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 2,
+                "link": null
+            },
+            {
+                "lesson_name": null,
+                "lesson_number": 3,
+                "link": null
+            },
+            {
+                "lesson_name": "14.03, 28.03, 11.04 Теоретична підготовка базової загальновійськової підготовки доц. Трофімчук В.М. ауд. 122 гуртожиток 4",
+                "lesson_number": 3,
                 "link": null
             }
         ]

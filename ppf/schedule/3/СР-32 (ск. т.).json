@@ -3,25 +3,39 @@
     [
       {
         "lesson_name": "ауд. 123 Інд. план догляду доц. Стеца Н. В.",
-        "link": "12:45"
+        "link": "12:45 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1"
       },
       {
         "lesson_name": "ауд. 123 Інд. план догляду доц. Стеца Н. В.",
-        "link": "14:15"
+        "link": "14:15 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1"
       }
     ],
     [
       {
-        "lesson_name": "Іновац. мед. доц. Стеца Н. В.",
-        "link": "12:45"
+        "lesson_name": "https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1 Іновац. мед. доц. Стеца Н. В.",
+        "link": "   12:45 "
       },
       {
         "lesson_name": "Іновац. мед. доц. Стеца Н. В.",
-        "link": "14:15"
+        "link": "14:15 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1"
       }
     ],
     [],
     [],
-    []
+    [],
+    [
+      {
+        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "link": "12:45 https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "link": "14:15 https://meet.google.com/hos-syng-fxp"
+      },
+      {
+        "lesson_name": "БЖД доц. Трохімчук В. М.",
+        "link": "15:45 https://meet.google.com/hos-syng-fxp"
+      }
+    ]
   ]
 }

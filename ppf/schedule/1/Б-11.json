@@ -2,44 +2,65 @@
   "week": [
     [
       {
-        "lesson_name": "ІКТ доц. Синицька Н. В.",
-        "link": "12:45"
+        "lesson_name": "ОЦ ауд. 102  https://meet.google.com/zrz-qhbt-bmv  ІКТ доц. Синицька Н. В.",
+        "link": "12:45 "
       },
       {
         "lesson_name": "ІКТ доц. Синицька Н. В.",
-        "link": "14:15"
+        "link": "14:15 https://meet.google.com/zrz-qhbt-bmv"
+      },
+      {
+        "lesson_name": "Г. 4, ауд. 11 https://meet.google.com/vbg-xzqe-dqj Зоологія ст. в. Гусаковська Т. М.",
+        "link": "15:45 "
       }
     ],
     [
       {
         "lesson_name": "Гістологія ст. в. Серган Є. О.",
-        "link": "12:45"
+        "link": "12:45 https://meet.google.com/drz-svwf-tyq"
       },
       {
-        "lesson_name": "Гістологія ст. в. Серган Є. О.",
-        "link": "14:15"
+        "lesson_name": "https://meet.google.com/drz-svwf-tyq Гістологія ст. в. Серган Є. О.",
+        "link": "14:15 "
       }
     ],
     [
       {
-        "lesson_name": "Фізика доц. Левчук Т. М.",
-        "link": "12:45"
+        "lesson_name": "https://meet.google.com/rta-ninn-jfs  Фізика доц. Шевчук Т. М.",
+        "link": "12:45   "
       },
       {
-        "lesson_name": "Фізика доц. Левчук Т. М.",
-        "link": "14:15"
+        "lesson_name": "Фізика доц. Шевчук Т. М.",
+        "link": "14:15 https://meet.google.com/rta-ninn-jfs"
+      },
+      {
+        "lesson_name": "Зоологія ст. в. Гусаковська Т. М.",
+        "link": "15:45"
       }
     ],
     [
       {
-        "lesson_name": "Ботаніка  доц. Ойцюсь Л. В.",
+        "lesson_name": "Іноземна мова проф. Мороз Л.В.  https://meet.google.com/bnx-vjvd-bjf  /              ст. в. Данілова Н.Р. https://meet.google.com/nnz-ovxg-fnp  /                                      ст. в. Ковалюк В.В. https://meet.google.com/ieq-kiqn-ouo /                                                          в. Краля І.В. https://meet.google.com/iqg-usho-oxq",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "б/а Ботаніка  доц. Ойцюсь Л. В.",
+        "link": "09:35 https://meet.google.com/fcm-ivtg-znx "
+      },
+      {
+        "lesson_name": "б/а Ботаніка  доц. Ойцюсь Л. В.",
+        "link": "11:10 https://meet.google.com/fcm-ivtg-znx"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Психологія здоров'я проф. Михальчук Н. О.",
         "link": "09:35"
       },
       {
-        "lesson_name": "Ботаніка  доц. Ойцюсь Л. В.",
+        "lesson_name": "Психологія здоров'я проф. Михальчук Н. О.",
         "link": "11:10"
       }
-    ],
-    []
+    ]
   ]
 }

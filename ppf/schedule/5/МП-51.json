@@ -2,11 +2,15 @@
   "week": [
     [
       {
-        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
-        "link": "12:45"
+        "lesson_name": "Академічна мобільність",
+        "link": "15:00"
       },
       {
-        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
+        "lesson_name": "Іноземна мова проф. Павелків К. М.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "Іноземна мова проф. Павелків К. М.",
         "link": "11:10"
       }
     ],
@@ -16,25 +20,47 @@
         "link": "14:15"
       }
     ],
-    [],
     [
       {
-        "lesson_name": "Орг. психол. доц. Рудюк О. В.",
-        "link": "12:45"
+        "lesson_name": "Іноземна мова https://meet.google.com/nwf-qysu-pza проф. Павелків К. М.",
+        "link": "09:35"
       },
       {
-        "lesson_name": "Орг. психол. доц. Рудюк О. В.",
-        "link": "14:15"
+        "lesson_name": "Іноземна мова https://meet.google.com/nwf-qysu-pza  проф. Павелків К. М.",
+        "link": "11:10"
       }
     ],
-    [],
     [
       {
-        "lesson_name": "ПВШ доц. Созонюк О. С.",
+        "lesson_name": "https://meet.google.com/gov-yhvk-xeg Орг. психол. доц. Рудюк О. В.",
+        "link": "12:45 "
+      },
+      {
+        "lesson_name": "https://meet.google.com/gov-yhvk-xeg Орг. психол. доц. Рудюк О. В.",
+        "link": "14:15 "
+      },
+      {
+        "lesson_name": "Академічна мобільність",
+        "link": "15:00"
+      }
+    ],
+    [
+      {
+        "lesson_name": "Конфліктологія проф. Корчакова Н. В.",
+        "link": "14:15 https://meet.google.com/wgs-pqmt-jfd"
+      },
+      {
+        "lesson_name": "Конфліктологія проф. Корчакова Н. В.",
+        "link": "15:45 https://meet.google.com/wgs-pqmt-jfd"
+      }
+    ],
+    [
+      {
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
         "link": "14:15"
       },
       {
-        "lesson_name": "ПВШ доц. Созонюк О. С.",
+        "lesson_name": "(067) 958 07 54 https://meet.google.com/zgm-mvaz-kbz код: zgm-mvaz-kbz ПВШ доц. Созонюк О. С.",
         "link": "15:45"
       }
     ]
