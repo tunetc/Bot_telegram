@@ -1,52 +1,30 @@
 {
   "week": [
+    [],
+    [],
     [
       {
-        "lesson_name": "ауд. 324  https://meet.google.com/zen-wruq-hza І і ТСР доц. Оксенюк О. В.",
-        "link": "09:35"
+        "lesson_name": "н/б  https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю.",
+        "link": "12:45"
       },
       {
-        "lesson_name": "ауд. 324   https://meet.google.com/zen-wruq-hza І і ТСР доц. Оксенюк О. В.",
-        "link": "11:10"
+        "lesson_name": "н/б  https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю.",
+        "link": "14:15"
       }
     ],
     [
       {
-        "lesson_name": "Е і ДСР доц. Оксенюк О. В.",
-        "link": "09:35 https://meet.google.com/zen-wruq-hza"
-      },
-      {
-        "lesson_name": "Е і ДСР доц. Оксенюк О. В.",
-        "link": "09:35 https://meet.google.com/zen-wruq-hza"
+        "lesson_name": "н/б https://meet.google.com/iqt-inia-zyy проф. Павелків К. М.",
+        "link": "12:45 "
       }
     ],
     [
       {
-        "lesson_name": "ДМД в. Пономаренко В. Ю.",
-        "link": "12:45 https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
+        "lesson_name": "ауд. 324 Іноземна мова проф. Павелків К. М.",
+        "link": "12:45"
       },
       {
-        "lesson_name": "ДМД в. Пономаренко В. Ю.",
-        "link": "14:15 https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1"
-      }
-    ],
-    [
-      {
-        "lesson_name": "проф. Павелків К. М.",
-        "link": "12:45 https://meet.google.com/iqt-inia-zyy"
-      },
-      {
-        "lesson_name": "https://meet.google.com/zen-wruq-hza І і ТСР доц. Оксенюк О. В.",
-        "link": "09:35 "
-      },
-      {
-        "lesson_name": "https://meet.google.com/zen-wruq-hza Е і ДСР доц. Оксенюк О. В.",
-        "link": "11:10 "
-      }
-    ],
-    [
-      {
-        "lesson_name": "Іноземна мова проф. Павелків К. М.",
+        "lesson_name": "ауд. 324 Іноземна мова проф. Павелків К. М.",
         "link": "11:10"
       }
     ]

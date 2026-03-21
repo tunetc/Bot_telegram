@@ -12,11 +12,11 @@
     ],
     [
       {
-        "lesson_name": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю. (дівчата) 12:45 ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
+        "lesson_name": "н/б https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю. (дівчата) 12:45 ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
         "link": "12:45 "
       },
       {
-        "lesson_name": "https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю. (дівчата) 12:45 ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
+        "lesson_name": "н/б https://us05web.zoom.us/j/9784604638?pwd=rc2rK9ebk83ybxelesGb1vieASIR3j.1 ДМД в. Пономаренко В. Ю. (дівчата) 12:45 ауд. 419 БЗВП доц. Трофімчук В. М. (хлопці)",
         "link": "12:45 "
       }
     ],
@@ -30,23 +30,41 @@
         "link": "14:15"
       },
       {
-        "lesson_name": " ТСР доц. Стеца Н. В.",
-        "link": "09:35 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1"
+        "lesson_name": "ауд. 123 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1 ТСР доц. Стеца Н. В.",
+        "link": "09:35 "
       },
       {
-        "lesson_name": " ТСР доц. Стеца Н. В.",
-        "link": "11:10 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1"
+        "lesson_name": "ауд. 123 https://us05web.zoom.us/j/88388308067?pwd=5a2tIDCyKUZXcAXfMCbm9jikw48Kbu.1 ТСР доц. Стеца Н. В.",
+        "link": "11:10 "
       }
     ],
     [],
     [
       {
-        "lesson_name": "https://meet.google.com/pmj-kavd-ptu Особист в сист. сусп. змін ст. в. Савущик А. І.",
+        "lesson_name": "ауд. 419 ТББЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "17:15"
+      },
+      {
+        "lesson_name": "ауд. 411 https://meet.google.com/pmj-kavd-ptu Особист в сист. сусп. змін ст. в. Савущик А. І.",
         "link": "09:35 "
       },
       {
-        "lesson_name": "https://meet.google.com/pmj-kavd-ptu Особист в сист. сусп. змін ст. в. Савущик А. І.",
+        "lesson_name": "ауд. 411 https://meet.google.com/pmj-kavd-ptu Особист в сист. сусп. змін ст. в. Савущик А. І.",
         "link": "11:10 "
+      }
+    ],
+    [
+      {
+        "lesson_name": "ОТОП доц. Оксенюк О. В.",
+        "link": "12:45"
+      },
+      {
+        "lesson_name": "ОТОП доц. Оксенюк О. В.",
+        "link": "14:15"
+      },
+      {
+        "lesson_name": "ауд. 419 ТБЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "08:00"
       }
     ]
   ]

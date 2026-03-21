@@ -20,12 +20,12 @@
         "link": "14:15"
       },
       {
-        "lesson_name": "  Зоологія доц. Рудь О. Г.",
-        "link": "09:35  https://meet.google.com/zmy-joxe-gtj"
+        "lesson_name": "Г. 7, ауд. 228 https://meet.google.com/zmy-joxe-gtj Зоологія доц. Рудь О. Г.",
+        "link": "09:35  "
       },
       {
-        "lesson_name": " Зоологія доц. Рудь О. Г.",
-        "link": "11:10  https://meet.google.com/zmy-joxe-gtj"
+        "lesson_name": "Г. 7, ауд. 228 https://meet.google.com/zmy-joxe-gtj Зоологія доц. Рудь О. Г.",
+        "link": "11:10  "
       }
     ],
     [
@@ -38,12 +38,12 @@
         "link": "14:15 "
       },
       {
-        "lesson_name": "ФЛ і Т проф. Сяська І. О.",
-        "link": "09:35 https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+        "lesson_name": "н/б  https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1 ФЛ і Т проф. Сяська І. О.",
+        "link": "09:35"
       },
       {
-        "lesson_name": "ФЛ і Т проф. Сяська І. О.",
-        "link": "11:10 https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1"
+        "lesson_name": "н/б https://us04web.zoom.us/j/8210789205?pwd=WiOZ0GCgA8Qe4oyDeSf25aIQT9cKTA.1 ФЛ і Т проф. Сяська І. О.",
+        "link": "11:10 "
       }
     ],
     [
@@ -58,20 +58,34 @@
     ],
     [
       {
-        "lesson_name": "прой. Михальчук Н. О.",
-        "link": "12:45 https://meet.google.com/cbk-ahhi-yobПсихологія здоров'я"
+        "lesson_name": "ауд. 412 https://meet.google.com/cbk-ahhi-yob Психологія здоров'я прой. Михальчук Н. О.",
+        "link": "12:45 "
       },
       {
-        "lesson_name": "Психологія здоров'я прой. Михальчук Н. О.",
-        "link": "14:15 https://meet.google.com/cbk-ahhi-yob"
+        "lesson_name": "ауд. 419 ТББЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "15:45"
       },
       {
-        "lesson_name": "ОНД доц. Рудь О. Г.",
-        "link": "09:35 https://meet.google.com/zmy-joxe-gtj"
+        "lesson_name": "Г. 4, ауд. 13  https://meet.google.com/zmy-joxe-gtj ОНД доц. Рудь О. Г.",
+        "link": "09:35"
       },
       {
-        "lesson_name": "ОНД доц. Рудь О. Г.",
-        "link": "11:10 https://meet.google.com/zmy-joxe-gtj"
+        "lesson_name": "Г. 4, ауд. 13  https://meet.google.com/zmy-joxe-gtj ОНД доц. Рудь О. Г.",
+        "link": "11:10"
+      }
+    ],
+    [
+      {
+        "lesson_name": "ауд. 419 ТБЗВП доц. Трофімчук В. М. (хлопці)",
+        "link": "08:00"
+      },
+      {
+        "lesson_name": "Основи інклюзивної освіти доц. Оксенюк О. В.",
+        "link": "09:35"
+      },
+      {
+        "lesson_name": "Основи інклюзивної освіти доц. Оксенюк О. В.",
+        "link": "11:10"
       }
     ]
   ]
